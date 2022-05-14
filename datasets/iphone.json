@@ -1,0 +1,2393 @@
+{
+  "conclusion_raw": "",
+  "conclusion_rendered": "",
+  "difficulty": "Moderate",
+  "documents": [],
+  "flags": [],
+  "guideid": 13470,
+  "image": {
+    "id": 233079,
+    "guid": "KRLMkuaBjm5mKDDP",
+    "mini": "https://guide-images.cdn.ifixit.com/igi/KRLMkuaBjm5mKDDP.mini",
+    "thumbnail": "https://guide-images.cdn.ifixit.com/igi/KRLMkuaBjm5mKDDP.thumbnail",
+    "140x105": "https://guide-images.cdn.ifixit.com/igi/KRLMkuaBjm5mKDDP.140x105",
+    "200x150": "https://guide-images.cdn.ifixit.com/igi/KRLMkuaBjm5mKDDP.200x150",
+    "standard": "https://guide-images.cdn.ifixit.com/igi/KRLMkuaBjm5mKDDP.standard",
+    "440x330": "https://guide-images.cdn.ifixit.com/igi/KRLMkuaBjm5mKDDP.440x330",
+    "medium": "https://guide-images.cdn.ifixit.com/igi/KRLMkuaBjm5mKDDP.medium",
+    "large": "https://guide-images.cdn.ifixit.com/igi/KRLMkuaBjm5mKDDP.large",
+    "huge": "https://guide-images.cdn.ifixit.com/igi/KRLMkuaBjm5mKDDP.huge",
+    "original": "https://guide-images.cdn.ifixit.com/igi/KRLMkuaBjm5mKDDP.full"
+  },
+  "introduction_raw": "We've been accused of favoring one fruit over all the rest. Some have even claimed that we love one juicy snack more than [guide|811|others|new_window=true].\n\nNo more. To show some appreciation towards other members of the fruit family, we decided to test out the accessibility, repairability, and end-of-life design of the Orange.\n\nTried the teardown at home with mild to moderate success?  Celebrate with an '''[product|IF145-223|Orange Teardown t-shirt]'''! Or if you're having technical difficulties with your Orange, make sure you've [[Orange Identification Guide|identified your Orange]] correctly, and then visit our [[Orange Troubleshooting|Orange Troubleshooting Guide]] to figure out what's going on. Perhaps you just need the [product|IF145-221|right tool] for the job.\n\nWant to know more about how we juiced this Orange? Read the full behind-the-scenes account on the '''[http://ifixit.org/4445/orange-teardown-behind-the-peel/|iFixit blog|new_window=true]'''.\n\nCheck out all the latest fruits of our labor by following [link|http://www.twitter.com/ifixit|iFixit] on Twitter or \"Liking\" us on [link|http://www.facebook.com/iFixit|Facebook].",
+  "introduction_rendered": "<p>We've been accused of favoring one fruit over all the rest. Some have even claimed that we love one juicy snack more than <a href=\"https://www.ifixit.com/Teardown/Banana+Teardown/811\" target=\"_blank\">others</a>.</p>\n\n<p>No more. To show some appreciation towards other members of the fruit family, we decided to test out the accessibility, repairability, and end-of-life design of the Orange.</p>\n\n<p>Tried the teardown at home with mild to moderate success?  Celebrate with an <strong>Orange Teardown t-shirt</strong>! Or if you're having technical difficulties with your Orange, make sure you've <a href=\"https://www.ifixit.com/Wiki/Orange_Identification_Guide\">identified your Orange</a> correctly, and then visit our <a href=\"https://www.ifixit.com/Wiki/Orange_Troubleshooting\">Orange Troubleshooting Guide</a> to figure out what's going on. Perhaps you just need the right tool for the job.</p>\n\n<p>Want to know more about how we juiced this Orange? Read the full behind-the-scenes account on the <strong><a href=\"http://ifixit.org/4445/orange-teardown-behind-the-peel/\" target=\"_blank\">iFixit blog</a></strong>.</p>\n\n<p>Check out all the latest fruits of our labor by following <a href=\"http://www.twitter.com/ifixit\" rel=\"nofollow noopener noreferrer\">iFixit</a> on Twitter or &quot;Liking&quot; us on <a href=\"http://www.facebook.com/iFixit\" rel=\"nofollow noopener noreferrer\">Facebook</a>.</p>",
+  "featured_document_embed_url": "",
+  "featured_document_thumbnail_url": "",
+  "locale": "en",
+  "parts": [
+    {
+      "text": "oOpener",
+      "notes": null,
+      "type": "",
+      "quantity": 1,
+      "url": "/Item/oOpener",
+      "thumbnail": "https://guide-images.cdn.ifixit.com/igi/1coIdCEJWw64Obx6.thumbnail"
+    }
+  ],
+  "prerequisites": [],
+  "steps": [
+    {
+      "title": "",
+      "lines": [
+        {
+          "text_raw": "The Orange. Nature's mysterious orange sphere. Believed to be the hybrid between a pomelo and a mandarin, the Orange is a staple food that has been cultivated since ancient times.",
+          "bullet": "black",
+          "level": 0,
+          "lineid": null,
+          "text_rendered": "The Orange. Nature's mysterious orange sphere. Believed to be the hybrid between a pomelo and a mandarin, the Orange is a staple food that has been cultivated since ancient times."
+        },
+        {
+          "text_raw": "So what components make up this juicy device? Here are the tech specs:",
+          "bullet": "black",
+          "level": 0,
+          "lineid": null,
+          "text_rendered": "So what components make up this juicy device? Here are the tech specs:"
+        },
+        {
+          "text_raw": "Orange peel",
+          "bullet": "orange",
+          "level": 1,
+          "lineid": null,
+          "text_rendered": "Orange peel"
+        },
+        {
+          "text_raw": "Orange seeds",
+          "bullet": "orange",
+          "level": 1,
+          "lineid": null,
+          "text_rendered": "Orange seeds"
+        },
+        {
+          "text_raw": "Orange pith",
+          "bullet": "orange",
+          "level": 1,
+          "lineid": null,
+          "text_rendered": "Orange pith"
+        },
+        {
+          "text_raw": "Orange pulp",
+          "bullet": "orange",
+          "level": 1,
+          "lineid": null,
+          "text_rendered": "Orange pulp"
+        },
+        {
+          "text_raw": "Orange juice",
+          "bullet": "orange",
+          "level": 1,
+          "lineid": null,
+          "text_rendered": "Orange juice"
+        },
+        {
+          "text_raw": "Orange color (corresponding to a 620 nm wavelength)",
+          "bullet": "orange",
+          "level": 1,
+          "lineid": null,
+          "text_rendered": "Orange color (corresponding to a 620 nm wavelength)"
+        }
+      ],
+      "guideid": 13470,
+      "stepid": 45537,
+      "orderby": 1,
+      "revisionid": 878068,
+      "media": {
+        "type": "image",
+        "data": [
+          {
+            "id": 233720,
+            "guid": "6Iy6KWux6MZxdaFv",
+            "mini": "https://guide-images.cdn.ifixit.com/igi/6Iy6KWux6MZxdaFv.mini",
+            "thumbnail": "https://guide-images.cdn.ifixit.com/igi/6Iy6KWux6MZxdaFv.thumbnail",
+            "140x105": "https://guide-images.cdn.ifixit.com/igi/6Iy6KWux6MZxdaFv.140x105",
+            "200x150": "https://guide-images.cdn.ifixit.com/igi/6Iy6KWux6MZxdaFv.200x150",
+            "standard": "https://guide-images.cdn.ifixit.com/igi/6Iy6KWux6MZxdaFv.standard",
+            "440x330": "https://guide-images.cdn.ifixit.com/igi/6Iy6KWux6MZxdaFv.440x330",
+            "medium": "https://guide-images.cdn.ifixit.com/igi/6Iy6KWux6MZxdaFv.medium",
+            "large": "https://guide-images.cdn.ifixit.com/igi/6Iy6KWux6MZxdaFv.large",
+            "huge": "https://guide-images.cdn.ifixit.com/igi/6Iy6KWux6MZxdaFv.huge",
+            "original": "https://guide-images.cdn.ifixit.com/igi/6Iy6KWux6MZxdaFv.full"
+          },
+          {
+            "id": 233090,
+            "guid": "4bMN4Grt2mPaGTBf",
+            "mini": "https://guide-images.cdn.ifixit.com/igi/4bMN4Grt2mPaGTBf.mini",
+            "thumbnail": "https://guide-images.cdn.ifixit.com/igi/4bMN4Grt2mPaGTBf.thumbnail",
+            "140x105": "https://guide-images.cdn.ifixit.com/igi/4bMN4Grt2mPaGTBf.140x105",
+            "200x150": "https://guide-images.cdn.ifixit.com/igi/4bMN4Grt2mPaGTBf.200x150",
+            "standard": "https://guide-images.cdn.ifixit.com/igi/4bMN4Grt2mPaGTBf.standard",
+            "440x330": "https://guide-images.cdn.ifixit.com/igi/4bMN4Grt2mPaGTBf.440x330",
+            "medium": "https://guide-images.cdn.ifixit.com/igi/4bMN4Grt2mPaGTBf.medium",
+            "large": "https://guide-images.cdn.ifixit.com/igi/4bMN4Grt2mPaGTBf.large",
+            "huge": "https://guide-images.cdn.ifixit.com/igi/4bMN4Grt2mPaGTBf.huge",
+            "original": "https://guide-images.cdn.ifixit.com/igi/4bMN4Grt2mPaGTBf.full"
+          }
+        ]
+      },
+      "comments": [
+        {
+          "commentid": 282510,
+          "locale": "en",
+          "context": "step",
+          "contextid": 45537,
+          "parentid": null,
+          "author": {
+            "userid": 1838038,
+            "username": "everseeker",
+            "unique_username": null,
+            "join_date": 1482266175,
+            "image": {
+              "id": 993672,
+              "guid": "KCtIPJnALFcFZKsf",
+              "mini": "https://guide-images.cdn.ifixit.com/igi/KCtIPJnALFcFZKsf.mini",
+              "thumbnail": "https://guide-images.cdn.ifixit.com/igi/KCtIPJnALFcFZKsf.thumbnail",
+              "140x105": "https://guide-images.cdn.ifixit.com/igi/KCtIPJnALFcFZKsf.140x105",
+              "200x150": "https://guide-images.cdn.ifixit.com/igi/KCtIPJnALFcFZKsf.200x150",
+              "standard": "https://guide-images.cdn.ifixit.com/igi/KCtIPJnALFcFZKsf.standard",
+              "440x330": "https://guide-images.cdn.ifixit.com/igi/KCtIPJnALFcFZKsf.440x330",
+              "medium": "https://guide-images.cdn.ifixit.com/igi/KCtIPJnALFcFZKsf.medium",
+              "original": "https://guide-images.cdn.ifixit.com/igi/KCtIPJnALFcFZKsf.full"
+            },
+            "reputation": 1,
+            "url": "https://www.ifixit.com/User/1838038/everseeker",
+            "teams": []
+          },
+          "title": "Orange Teardown",
+          "text_raw": "It has been too long ... You need to do another of these mysterious \"Fruit\" things...\n\nMay I suggest a Raspberry? Although you may end up with a sticky microscope.\n\nOr... you could try a Durian  (Seriously Evil Grin)",
+          "text_rendered": "<p>It has been too long ... You need to do another of these mysterious &quot;Fruit&quot; things...</p>\n\n<p>May I suggest a Raspberry? Although you may end up with a sticky microscope.</p>\n\n<p>Or... you could try a Durian  (Seriously Evil Grin)</p>",
+          "rating": 0,
+          "date": 1482267355,
+          "modified_date": 1482267427,
+          "status": "public",
+          "replies": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "lines": [
+        {
+          "text_raw": "Before we could start penetrating the thick outer peel protecting the Orange's sweet innards, this [http://www.penny-arcade.com/comic/2010/10/11|small|new_window=true] [http://www.penny-arcade.com/comic/2003/6/4/|mechanoid|new_window=true] appeared out of thin air. Cue [http://www.youtube.com/watch?feature=player_detailpage&v=unZjBx5X0hA#t=24s|Final Fantasy battle theme|new_window=true].",
+          "bullet": "black",
+          "level": 0,
+          "lineid": null,
+          "text_rendered": "Before we could start penetrating the thick outer peel protecting the Orange's sweet innards, this <a href=\"http://www.penny-arcade.com/comic/2010/10/11\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">small</a> <a href=\"http://www.penny-arcade.com/comic/2003/6/4/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">mechanoid</a> appeared out of thin air. Cue <a href=\"http://www.youtube.com/watch?feature=player_detailpage&amp;v=unZjBx5X0hA#t=24s\" target=\"_blank\">Final Fantasy battle theme</a>."
+        },
+        {
+          "text_raw": "After a protracted tussle, the Orange emerged victorious. The fate of the mechanoid is unknown—it vanished mysteriously into the arcane shadows from whence it came.",
+          "bullet": "black",
+          "level": 0,
+          "lineid": null,
+          "text_rendered": "After a protracted tussle, the Orange emerged victorious. The fate of the mechanoid is unknown—it vanished mysteriously into the arcane shadows from whence it came."
+        },
+        {
+          "text_raw": "Strike a pose; Juxtapose. We set up our customary comparison shot to contrast the Orange to an [http://guide-images.ifixit.net/igi/T13ywXMbsLFkZmta.large|Apple|new_window=true].",
+          "bullet": "black",
+          "level": 0,
+          "lineid": null,
+          "text_rendered": "Strike a pose; Juxtapose. We set up our customary comparison shot to contrast the Orange to an <a href=\"http://guide-images.ifixit.net/igi/T13ywXMbsLFkZmta.large\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Apple</a>."
+        }
+      ],
+      "guideid": 13470,
+      "stepid": 45539,
+      "orderby": 2,
+      "revisionid": 877805,
+      "media": {
+        "type": "image",
+        "data": [
+          {
+            "id": 233087,
+            "guid": "IP3xhJyBLLupZEiI",
+            "mini": "https://guide-images.cdn.ifixit.com/igi/IP3xhJyBLLupZEiI.mini",
+            "thumbnail": "https://guide-images.cdn.ifixit.com/igi/IP3xhJyBLLupZEiI.thumbnail",
+            "140x105": "https://guide-images.cdn.ifixit.com/igi/IP3xhJyBLLupZEiI.140x105",
+            "200x150": "https://guide-images.cdn.ifixit.com/igi/IP3xhJyBLLupZEiI.200x150",
+            "standard": "https://guide-images.cdn.ifixit.com/igi/IP3xhJyBLLupZEiI.standard",
+            "440x330": "https://guide-images.cdn.ifixit.com/igi/IP3xhJyBLLupZEiI.440x330",
+            "medium": "https://guide-images.cdn.ifixit.com/igi/IP3xhJyBLLupZEiI.medium",
+            "large": "https://guide-images.cdn.ifixit.com/igi/IP3xhJyBLLupZEiI.large",
+            "huge": "https://guide-images.cdn.ifixit.com/igi/IP3xhJyBLLupZEiI.huge",
+            "original": "https://guide-images.cdn.ifixit.com/igi/IP3xhJyBLLupZEiI.full"
+          },
+          {
+            "id": 233312,
+            "guid": "ciVhTXhR2reAnIE3",
+            "mini": "https://guide-images.cdn.ifixit.com/igi/ciVhTXhR2reAnIE3.mini",
+            "thumbnail": "https://guide-images.cdn.ifixit.com/igi/ciVhTXhR2reAnIE3.thumbnail",
+            "140x105": "https://guide-images.cdn.ifixit.com/igi/ciVhTXhR2reAnIE3.140x105",
+            "200x150": "https://guide-images.cdn.ifixit.com/igi/ciVhTXhR2reAnIE3.200x150",
+            "standard": "https://guide-images.cdn.ifixit.com/igi/ciVhTXhR2reAnIE3.standard",
+            "440x330": "https://guide-images.cdn.ifixit.com/igi/ciVhTXhR2reAnIE3.440x330",
+            "medium": "https://guide-images.cdn.ifixit.com/igi/ciVhTXhR2reAnIE3.medium",
+            "large": "https://guide-images.cdn.ifixit.com/igi/ciVhTXhR2reAnIE3.large",
+            "huge": "https://guide-images.cdn.ifixit.com/igi/ciVhTXhR2reAnIE3.huge",
+            "original": "https://guide-images.cdn.ifixit.com/igi/ciVhTXhR2reAnIE3.full"
+          }
+        ]
+      },
+      "comments": []
+    },
+    {
+      "title": "",
+      "lines": [
+        {
+          "text_raw": "What exactly adheres the outer layer to the Orange? We aren't really sure. We're familiar with how much adhesive [guide|8277|devices these days|stepid=33139|new_window=true] employ and are prepared to act accordingly.",
+          "bullet": "black",
+          "level": 0,
+          "lineid": null,
+          "text_rendered": "What exactly adheres the outer layer to the Orange? We aren't really sure. We're familiar with how much adhesive <a href=\"https://www.ifixit.com/Teardown/iPad+3+4G+Teardown/8277#s33139\" target=\"_blank\">devices these days</a> employ and are prepared to act accordingly."
+        },
+        {
+          "text_raw": "In any case, the only sure-fire way to know is to heat the Orange up with our [product|IF145-031|heat gun|new_window=true]. This has never been done in the history of Orange disassembly. This truly is one small step for an Orange, one giant leap for fruitkind.",
+          "bullet": "black",
+          "level": 0,
+          "lineid": null,
+          "text_rendered": "In any case, the only sure-fire way to know is to heat the Orange up with our <a href=\"https://www.ifixit.com/Store/Tools/Heat-Gun/IF145-031\" target=\"_blank\">heat gun</a>. This has never been done in the history of Orange disassembly. This truly is one small step for an Orange, one giant leap for fruitkind."
+        },
+        {
+          "text_raw": "Do not attempt this procedure at home. We are Orange-certified repair technicians.",
+          "bullet": "icon_caution",
+          "level": 0,
+          "lineid": null,
+          "text_rendered": "Do not attempt this procedure at home. We are Orange-certified repair technicians."
+        }
+      ],
+      "guideid": 13470,
+      "stepid": 45540,
+      "orderby": 3,
+      "revisionid": 877761,
+      "media": {
+        "type": "image",
+        "data": [
+          {
+            "id": 233091,
+            "guid": "ByA3xqQMLRXiOqUu",
+            "mini": "https://guide-images.cdn.ifixit.com/igi/ByA3xqQMLRXiOqUu.mini",
+            "thumbnail": "https://guide-images.cdn.ifixit.com/igi/ByA3xqQMLRXiOqUu.thumbnail",
+            "140x105": "https://guide-images.cdn.ifixit.com/igi/ByA3xqQMLRXiOqUu.140x105",
+            "200x150": "https://guide-images.cdn.ifixit.com/igi/ByA3xqQMLRXiOqUu.200x150",
+            "standard": "https://guide-images.cdn.ifixit.com/igi/ByA3xqQMLRXiOqUu.standard",
+            "440x330": "https://guide-images.cdn.ifixit.com/igi/ByA3xqQMLRXiOqUu.440x330",
+            "medium": "https://guide-images.cdn.ifixit.com/igi/ByA3xqQMLRXiOqUu.medium",
+            "large": "https://guide-images.cdn.ifixit.com/igi/ByA3xqQMLRXiOqUu.large",
+            "huge": "https://guide-images.cdn.ifixit.com/igi/ByA3xqQMLRXiOqUu.huge",
+            "original": "https://guide-images.cdn.ifixit.com/igi/ByA3xqQMLRXiOqUu.full"
+          },
+          {
+            "id": 233233,
+            "guid": "uxbQgeRWqxhMJVow",
+            "mini": "https://guide-images.cdn.ifixit.com/igi/uxbQgeRWqxhMJVow.mini",
+            "thumbnail": "https://guide-images.cdn.ifixit.com/igi/uxbQgeRWqxhMJVow.thumbnail",
+            "140x105": "https://guide-images.cdn.ifixit.com/igi/uxbQgeRWqxhMJVow.140x105",
+            "200x150": "https://guide-images.cdn.ifixit.com/igi/uxbQgeRWqxhMJVow.200x150",
+            "standard": "https://guide-images.cdn.ifixit.com/igi/uxbQgeRWqxhMJVow.standard",
+            "440x330": "https://guide-images.cdn.ifixit.com/igi/uxbQgeRWqxhMJVow.440x330",
+            "medium": "https://guide-images.cdn.ifixit.com/igi/uxbQgeRWqxhMJVow.medium",
+            "large": "https://guide-images.cdn.ifixit.com/igi/uxbQgeRWqxhMJVow.large",
+            "original": "https://guide-images.cdn.ifixit.com/igi/uxbQgeRWqxhMJVow.full"
+          }
+        ]
+      },
+      "comments": [
+        {
+          "commentid": 93623,
+          "locale": "en",
+          "context": "step",
+          "contextid": 45540,
+          "parentid": null,
+          "author": {
+            "userid": 451564,
+            "username": "Alex",
+            "unique_username": null,
+            "join_date": 1337228856,
+            "image": {
+              "id": -32,
+              "guid": "default_avatar_placeholder_guid",
+              "original": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-10",
+              "mini": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-10.mini",
+              "thumbnail": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-10.thumbnail",
+              "140x105": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-10.140x105",
+              "200x150": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-10.200x150",
+              "standard": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-10.standard",
+              "440x330": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-10.440x330",
+              "medium": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-10.medium",
+              "large": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-10.large"
+            },
+            "reputation": 1,
+            "url": "https://www.ifixit.com/User/451564/Alex",
+            "teams": []
+          },
+          "title": "Orange Teardown",
+          "text_raw": "Who was the certificate was granted by?",
+          "text_rendered": "<p>Who was the certificate was granted by?</p>",
+          "rating": 0,
+          "date": 1364796513,
+          "modified_date": 0,
+          "status": "public",
+          "replies": [
+            {
+              "commentid": 93669,
+              "locale": "en",
+              "context": "step",
+              "contextid": 45540,
+              "parentid": 93623,
+              "author": {
+                "userid": 225663,
+                "username": "David Hodson",
+                "unique_username": "davidhodson",
+                "join_date": 1271205582,
+                "image": {
+                  "id": 220858,
+                  "guid": "WV1nZyAM26RXHku2",
+                  "mini": "https://guide-images.cdn.ifixit.com/igi/WV1nZyAM26RXHku2.mini",
+                  "thumbnail": "https://guide-images.cdn.ifixit.com/igi/WV1nZyAM26RXHku2.thumbnail",
+                  "medium": "https://guide-images.cdn.ifixit.com/igi/WV1nZyAM26RXHku2.medium",
+                  "original": "https://guide-images.cdn.ifixit.com/igi/WV1nZyAM26RXHku2.full"
+                },
+                "reputation": 145981,
+                "url": "https://www.ifixit.com/User/225663/David+Hodson",
+                "teams": []
+              },
+              "title": "Orange Teardown",
+              "text_raw": "Orange, the manufacturer.",
+              "text_rendered": "<p>Orange, the manufacturer.</p>",
+              "rating": 0,
+              "date": 1364853279,
+              "modified_date": 0,
+              "status": "public"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "",
+      "lines": [
+        {
+          "text_raw": "At this point, we are fairly confident that the heat gun sufficiently loosened any adhesive in the Orange. Time to get to the tearing down!",
+          "bullet": "black",
+          "level": 0,
+          "lineid": null,
+          "text_rendered": "At this point, we are fairly confident that the heat gun sufficiently loosened any adhesive in the Orange. Time to get to the tearing down!"
+        },
+        {
+          "text_raw": "To our surprise, our [http://xkcd.com/55/|normal approach|new_window=true] does not seem to apply to this strange device.",
+          "bullet": "black",
+          "level": 0,
+          "lineid": null,
+          "text_rendered": "To our surprise, our <a href=\"http://xkcd.com/55/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">normal approach</a> does not seem to apply to this strange device."
+        }
+      ],
+      "guideid": 13470,
+      "stepid": 45541,
+      "orderby": 4,
+      "revisionid": 877478,
+      "media": {
+        "type": "image",
+        "data": [
+          {
+            "id": 233096,
+            "guid": "3XRQxJYMwklOs1DM",
+            "mini": "https://guide-images.cdn.ifixit.com/igi/3XRQxJYMwklOs1DM.mini",
+            "thumbnail": "https://guide-images.cdn.ifixit.com/igi/3XRQxJYMwklOs1DM.thumbnail",
+            "140x105": "https://guide-images.cdn.ifixit.com/igi/3XRQxJYMwklOs1DM.140x105",
+            "200x150": "https://guide-images.cdn.ifixit.com/igi/3XRQxJYMwklOs1DM.200x150",
+            "standard": "https://guide-images.cdn.ifixit.com/igi/3XRQxJYMwklOs1DM.standard",
+            "440x330": "https://guide-images.cdn.ifixit.com/igi/3XRQxJYMwklOs1DM.440x330",
+            "medium": "https://guide-images.cdn.ifixit.com/igi/3XRQxJYMwklOs1DM.medium",
+            "large": "https://guide-images.cdn.ifixit.com/igi/3XRQxJYMwklOs1DM.large",
+            "huge": "https://guide-images.cdn.ifixit.com/igi/3XRQxJYMwklOs1DM.huge",
+            "original": "https://guide-images.cdn.ifixit.com/igi/3XRQxJYMwklOs1DM.full"
+          },
+          {
+            "id": 233094,
+            "guid": "OTWLxlULJiiZAgWf",
+            "mini": "https://guide-images.cdn.ifixit.com/igi/OTWLxlULJiiZAgWf.mini",
+            "thumbnail": "https://guide-images.cdn.ifixit.com/igi/OTWLxlULJiiZAgWf.thumbnail",
+            "140x105": "https://guide-images.cdn.ifixit.com/igi/OTWLxlULJiiZAgWf.140x105",
+            "200x150": "https://guide-images.cdn.ifixit.com/igi/OTWLxlULJiiZAgWf.200x150",
+            "standard": "https://guide-images.cdn.ifixit.com/igi/OTWLxlULJiiZAgWf.standard",
+            "440x330": "https://guide-images.cdn.ifixit.com/igi/OTWLxlULJiiZAgWf.440x330",
+            "medium": "https://guide-images.cdn.ifixit.com/igi/OTWLxlULJiiZAgWf.medium",
+            "large": "https://guide-images.cdn.ifixit.com/igi/OTWLxlULJiiZAgWf.large",
+            "huge": "https://guide-images.cdn.ifixit.com/igi/OTWLxlULJiiZAgWf.huge",
+            "original": "https://guide-images.cdn.ifixit.com/igi/OTWLxlULJiiZAgWf.full"
+          },
+          {
+            "id": 233093,
+            "guid": "SXEZetDWepYJPOcA",
+            "mini": "https://guide-images.cdn.ifixit.com/igi/SXEZetDWepYJPOcA.mini",
+            "thumbnail": "https://guide-images.cdn.ifixit.com/igi/SXEZetDWepYJPOcA.thumbnail",
+            "140x105": "https://guide-images.cdn.ifixit.com/igi/SXEZetDWepYJPOcA.140x105",
+            "200x150": "https://guide-images.cdn.ifixit.com/igi/SXEZetDWepYJPOcA.200x150",
+            "standard": "https://guide-images.cdn.ifixit.com/igi/SXEZetDWepYJPOcA.standard",
+            "440x330": "https://guide-images.cdn.ifixit.com/igi/SXEZetDWepYJPOcA.440x330",
+            "medium": "https://guide-images.cdn.ifixit.com/igi/SXEZetDWepYJPOcA.medium",
+            "large": "https://guide-images.cdn.ifixit.com/igi/SXEZetDWepYJPOcA.large",
+            "huge": "https://guide-images.cdn.ifixit.com/igi/SXEZetDWepYJPOcA.huge",
+            "original": "https://guide-images.cdn.ifixit.com/igi/SXEZetDWepYJPOcA.full"
+          }
+        ]
+      },
+      "comments": [
+        {
+          "commentid": 93754,
+          "locale": "en",
+          "context": "step",
+          "contextid": 45541,
+          "parentid": null,
+          "author": {
+            "userid": 526416,
+            "username": "Rene Jeddore",
+            "unique_username": null,
+            "join_date": 1350996921,
+            "image": {
+              "id": -32,
+              "guid": "default_avatar_placeholder_guid",
+              "original": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-6",
+              "mini": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-6.mini",
+              "thumbnail": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-6.thumbnail",
+              "140x105": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-6.140x105",
+              "200x150": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-6.200x150",
+              "standard": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-6.standard",
+              "440x330": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-6.440x330",
+              "medium": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-6.medium",
+              "large": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-6.large"
+            },
+            "reputation": 1238,
+            "url": "https://www.ifixit.com/User/526416/Rene+Jeddore",
+            "teams": []
+          },
+          "title": "Orange Teardown",
+          "text_raw": "You have the wrong style of guitar pick. You need the one that comes with most apple tool kits (but have no purpose on an apple) that is much thicker and has three edges that are thinner. These edges will act in a similar fashion as the oOpener tool.\n\nThanks for the detailed teardown. Is there any possibility or reassembly with the different orange models?\n\nP.S. Yes, I realize it is now the 3rd of April. :)",
+          "text_rendered": "<p>You have the wrong style of guitar pick. You need the one that comes with most apple tool kits (but have no purpose on an apple) that is much thicker and has three edges that are thinner. These edges will act in a similar fashion as the oOpener tool.</p>\n\n<p>Thanks for the detailed teardown. Is there any possibility or reassembly with the different orange models?</p>\n\n<p>P.S. Yes, I realize it is now the 3rd of April. :)</p>",
+          "rating": 0,
+          "date": 1364996162,
+          "modified_date": 0,
+          "status": "public",
+          "replies": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "lines": [
+        {
+          "text_raw": "Oddly, we have no luck with a [product|IF145-123|guitar pick|new_window=true], [product|IF145-000|plastic opening tool|new_window=true], [product|IF145-185|tech knife|new_window=true], [product|IF145-108|ruler|new_window=true], [product|IF145-020|pair of tweezers|new_window=true], or even an [product|IF145-130|iSesamo|new_window=true]!",
+          "bullet": "black",
+          "level": 0,
+          "lineid": null,
+          "text_rendered": "Oddly, we have no luck with a <a href=\"https://www.ifixit.com/Store/Tools/iFixit-Opening-Picks-Set-of-6/IF145-123\" target=\"_blank\">guitar pick</a>, plastic opening tool, <a href=\"https://www.ifixit.com/Store/Tools/Precision-Utility-Knife/IF145-185\" target=\"_blank\">tech knife</a>, <a href=\"https://www.ifixit.com/Store/Tools/iFixit-6-Inch-Metal-Ruler/IF145-108\" target=\"_blank\">ruler</a>, <a href=\"https://www.ifixit.com/Store/Tools/Tweezers/IF145-020\" target=\"_blank\">pair of tweezers</a>, or even an <a href=\"https://www.ifixit.com/Store/Tools/iSesamo-Opening-Tool/IF145-130\" target=\"_blank\">iSesamo</a>!"
+        },
+        {
+          "text_raw": "Perhaps we've found some untapped functionality as a tool holder. This may warrant further investigation.",
+          "bullet": "icon_note",
+          "level": 0,
+          "lineid": null,
+          "text_rendered": "Perhaps we've found some untapped functionality as a tool holder. This may warrant further investigation."
+        }
+      ],
+      "guideid": 13470,
+      "stepid": 45542,
+      "orderby": 5,
+      "revisionid": 877447,
+      "media": {
+        "type": "image",
+        "data": [
+          {
+            "id": 233092,
+            "guid": "yOgGW3qdDYlYSQ6x",
+            "mini": "https://guide-images.cdn.ifixit.com/igi/yOgGW3qdDYlYSQ6x.mini",
+            "thumbnail": "https://guide-images.cdn.ifixit.com/igi/yOgGW3qdDYlYSQ6x.thumbnail",
+            "140x105": "https://guide-images.cdn.ifixit.com/igi/yOgGW3qdDYlYSQ6x.140x105",
+            "200x150": "https://guide-images.cdn.ifixit.com/igi/yOgGW3qdDYlYSQ6x.200x150",
+            "standard": "https://guide-images.cdn.ifixit.com/igi/yOgGW3qdDYlYSQ6x.standard",
+            "440x330": "https://guide-images.cdn.ifixit.com/igi/yOgGW3qdDYlYSQ6x.440x330",
+            "medium": "https://guide-images.cdn.ifixit.com/igi/yOgGW3qdDYlYSQ6x.medium",
+            "large": "https://guide-images.cdn.ifixit.com/igi/yOgGW3qdDYlYSQ6x.large",
+            "huge": "https://guide-images.cdn.ifixit.com/igi/yOgGW3qdDYlYSQ6x.huge",
+            "original": "https://guide-images.cdn.ifixit.com/igi/yOgGW3qdDYlYSQ6x.full"
+          }
+        ]
+      },
+      "comments": []
+    },
+    {
+      "title": "",
+      "lines": [
+        {
+          "text_raw": "Having no luck with our vast array of poking, prodding, and prying tools, we figure a little more heat might be necessary.",
+          "bullet": "black",
+          "level": 0,
+          "lineid": null,
+          "text_rendered": "Having no luck with our vast array of poking, prodding, and prying tools, we figure a little more heat might be necessary."
+        },
+        {
+          "text_raw": "Turns out keeping a heat gun on the same spot for too long will damage the outer layer of the peel beyond repair. If you're not extremely cautious, you will find yourself in need of a new outer peel.",
+          "bullet": "icon_caution",
+          "level": 0,
+          "lineid": null,
+          "text_rendered": "Turns out keeping a heat gun on the same spot for too long will damage the outer layer of the peel beyond repair. If you're not extremely cautious, you will find yourself in need of a new outer peel."
+        },
+        {
+          "text_raw": "We stood in line at the local [http://goo.gl/maps/SqRV2|Orange Store|new_window=true] for hours to get a whole heap of Oranges, so hopefully we'll have a fool-proof method to open them by the time we start writing repair guides.",
+          "bullet": "icon_note",
+          "level": 0,
+          "lineid": null,
+          "text_rendered": "We stood in line at the local <a href=\"http://goo.gl/maps/SqRV2\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Orange Store</a> for hours to get a whole heap of Oranges, so hopefully we'll have a fool-proof method to open them by the time we start writing repair guides."
+        }
+      ],
+      "guideid": 13470,
+      "stepid": 45543,
+      "orderby": 6,
+      "revisionid": 877539,
+      "media": {
+        "type": "image",
+        "data": [
+          {
+            "id": 233097,
+            "guid": "SnJ4WfcfH6CvcKJr",
+            "mini": "https://guide-images.cdn.ifixit.com/igi/SnJ4WfcfH6CvcKJr.mini",
+            "thumbnail": "https://guide-images.cdn.ifixit.com/igi/SnJ4WfcfH6CvcKJr.thumbnail",
+            "140x105": "https://guide-images.cdn.ifixit.com/igi/SnJ4WfcfH6CvcKJr.140x105",
+            "200x150": "https://guide-images.cdn.ifixit.com/igi/SnJ4WfcfH6CvcKJr.200x150",
+            "standard": "https://guide-images.cdn.ifixit.com/igi/SnJ4WfcfH6CvcKJr.standard",
+            "440x330": "https://guide-images.cdn.ifixit.com/igi/SnJ4WfcfH6CvcKJr.440x330",
+            "medium": "https://guide-images.cdn.ifixit.com/igi/SnJ4WfcfH6CvcKJr.medium",
+            "large": "https://guide-images.cdn.ifixit.com/igi/SnJ4WfcfH6CvcKJr.large",
+            "huge": "https://guide-images.cdn.ifixit.com/igi/SnJ4WfcfH6CvcKJr.huge",
+            "original": "https://guide-images.cdn.ifixit.com/igi/SnJ4WfcfH6CvcKJr.full"
+          },
+          {
+            "id": 233098,
+            "guid": "mUcwZ2gZqercUruE",
+            "mini": "https://guide-images.cdn.ifixit.com/igi/mUcwZ2gZqercUruE.mini",
+            "thumbnail": "https://guide-images.cdn.ifixit.com/igi/mUcwZ2gZqercUruE.thumbnail",
+            "140x105": "https://guide-images.cdn.ifixit.com/igi/mUcwZ2gZqercUruE.140x105",
+            "200x150": "https://guide-images.cdn.ifixit.com/igi/mUcwZ2gZqercUruE.200x150",
+            "standard": "https://guide-images.cdn.ifixit.com/igi/mUcwZ2gZqercUruE.standard",
+            "440x330": "https://guide-images.cdn.ifixit.com/igi/mUcwZ2gZqercUruE.440x330",
+            "medium": "https://guide-images.cdn.ifixit.com/igi/mUcwZ2gZqercUruE.medium",
+            "large": "https://guide-images.cdn.ifixit.com/igi/mUcwZ2gZqercUruE.large",
+            "huge": "https://guide-images.cdn.ifixit.com/igi/mUcwZ2gZqercUruE.huge",
+            "original": "https://guide-images.cdn.ifixit.com/igi/mUcwZ2gZqercUruE.full"
+          }
+        ]
+      },
+      "comments": [
+        {
+          "commentid": 635130,
+          "locale": "en",
+          "context": "step",
+          "contextid": 45543,
+          "parentid": null,
+          "author": {
+            "userid": 3451054,
+            "username": "David Szekeres",
+            "unique_username": "drmogyorody",
+            "join_date": 1587263343,
+            "image": {
+              "id": -32,
+              "guid": "default_avatar_placeholder_guid",
+              "original": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-4",
+              "mini": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-4.mini",
+              "thumbnail": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-4.thumbnail",
+              "140x105": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-4.140x105",
+              "200x150": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-4.200x150",
+              "standard": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-4.standard",
+              "440x330": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-4.440x330",
+              "medium": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-4.medium",
+              "large": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-4.large"
+            },
+            "reputation": 1,
+            "url": "https://www.ifixit.com/User/3451054/David+Szekeres",
+            "teams": []
+          },
+          "title": "Orange Teardown",
+          "text_raw": "This was the most shocking and scariest part of any things I ever seen.",
+          "text_rendered": "<p>This was the most shocking and scariest part of any things I ever seen.</p>",
+          "rating": 0,
+          "date": 1587266166,
+          "modified_date": 1587266166,
+          "status": "public",
+          "replies": []
+        }
+      ]
+    },
+    {
+      "title": "",
+      "lines": [
+        {
+          "text_raw": "With no other option in sight, we turn to our last resort for impossible-to-open devices: the [product|IF145-096|Pentalobe screwdriver|new_window=true].",
+          "bullet": "black",
+          "level": 0,
+          "lineid": null,
+          "text_rendered": "With no other option in sight, we turn to our last resort for impossible-to-open devices: the <a href=\"https://www.ifixit.com/Store/Tools/P2-Pentalobe-Screwdriver-iPhone/IF145-096\" target=\"_blank\">Pentalobe screwdriver</a>."
+        },
+        {
+          "text_raw": "[http://www.imdb.com/title/tt0070996/|Phooey|new_window=true]! That didn't seem to work, either. We are running out of ideas…",
+          "bullet": "black",
+          "level": 0,
+          "lineid": null,
+          "text_rendered": "<a href=\"http://www.imdb.com/title/tt0070996/\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">Phooey</a>! That didn't seem to work, either. We are running out of ideas…"
+        }
+      ],
+      "guideid": 13470,
+      "stepid": 45544,
+      "orderby": 7,
+      "revisionid": 877530,
+      "media": {
+        "type": "image",
+        "data": [
+          {
+            "id": 233102,
+            "guid": "2iObT6q64e3426mf",
+            "mini": "https://guide-images.cdn.ifixit.com/igi/2iObT6q64e3426mf.mini",
+            "thumbnail": "https://guide-images.cdn.ifixit.com/igi/2iObT6q64e3426mf.thumbnail",
+            "140x105": "https://guide-images.cdn.ifixit.com/igi/2iObT6q64e3426mf.140x105",
+            "200x150": "https://guide-images.cdn.ifixit.com/igi/2iObT6q64e3426mf.200x150",
+            "standard": "https://guide-images.cdn.ifixit.com/igi/2iObT6q64e3426mf.standard",
+            "440x330": "https://guide-images.cdn.ifixit.com/igi/2iObT6q64e3426mf.440x330",
+            "medium": "https://guide-images.cdn.ifixit.com/igi/2iObT6q64e3426mf.medium",
+            "large": "https://guide-images.cdn.ifixit.com/igi/2iObT6q64e3426mf.large",
+            "huge": "https://guide-images.cdn.ifixit.com/igi/2iObT6q64e3426mf.huge",
+            "original": "https://guide-images.cdn.ifixit.com/igi/2iObT6q64e3426mf.full"
+          }
+        ]
+      },
+      "comments": []
+    },
+    {
+      "title": "",
+      "lines": [
+        {
+          "text_raw": "Just when we think all hope is lost, [http://guide-images.ifixit.net/igi/DMGsUtdxyEAYcRuc|a tool descends upon us from the repair heavens|new_window=true] as Morgan Freeman's voice booms throughout our teardown room.",
+          "bullet": "black",
+          "level": 0,
+          "lineid": null,
+          "text_rendered": "Just when we think all hope is lost, <a href=\"http://guide-images.ifixit.net/igi/DMGsUtdxyEAYcRuc\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">a tool descends upon us from the repair heavens</a> as Morgan Freeman's voice booms throughout our teardown room."
+        },
+        {
+          "text_raw": "''Behold! [product|IF145-221|The oOpener!]''",
+          "bullet": "black",
+          "level": 1,
+          "lineid": null,
+          "text_rendered": "<em>Behold! The oOpener!</em>"
+        },
+        {
+          "text_raw": "A tool rumored to open any orange in the universe, we had only heard about the oOpener in old repair myths shared around [http://guide-images.ifixit.net/igi/QV4kKa1S4FYqvTPE|company campfires].",
+          "bullet": "black",
+          "level": 0,
+          "lineid": null,
+          "text_rendered": "A tool rumored to open any orange in the universe, we had only heard about the oOpener in old repair myths shared around <a href=\"http://guide-images.ifixit.net/igi/QV4kKa1S4FYqvTPE\" rel=\"nofollow noopener noreferrer\">company campfires</a>."
+        },
+        {
+          "text_raw": "While most disassembly tools, such as the [product|IF145-198|iOpener], can be fabricated, the oOpener is said to only be available to those who are [http://guide-images.ifixit.net/igi/UMyJTVjPNTMOyTyT|pure of heart, mind, and vision of a repair-friendly world|new_window=true].",
+          "bullet": "black",
+          "level": 0,
+          "lineid": null,
+          "text_rendered": "While most disassembly tools, such as the <a href=\"https://www.ifixit.com/Store/Tools/iOpener/IF145-198\">iOpener</a>, can be fabricated, the oOpener is said to only be available to those who are <a href=\"http://guide-images.ifixit.net/igi/UMyJTVjPNTMOyTyT\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">pure of heart, mind, and vision of a repair-friendly world</a>."
+        }
+      ],
+      "guideid": 13470,
+      "stepid": 45545,
+      "orderby": 8,
+      "revisionid": 877931,
+      "media": {
+        "type": "image",
+        "data": [
+          {
+            "id": 233104,
+            "guid": "ZjF2v1rp6blDlRPH",
+            "mini": "https://guide-images.cdn.ifixit.com/igi/ZjF2v1rp6blDlRPH.mini",
+            "thumbnail": "https://guide-images.cdn.ifixit.com/igi/ZjF2v1rp6blDlRPH.thumbnail",
+            "140x105": "https://guide-images.cdn.ifixit.com/igi/ZjF2v1rp6blDlRPH.140x105",
+            "200x150": "https://guide-images.cdn.ifixit.com/igi/ZjF2v1rp6blDlRPH.200x150",
+            "standard": "https://guide-images.cdn.ifixit.com/igi/ZjF2v1rp6blDlRPH.standard",
+            "440x330": "https://guide-images.cdn.ifixit.com/igi/ZjF2v1rp6blDlRPH.440x330",
+            "medium": "https://guide-images.cdn.ifixit.com/igi/ZjF2v1rp6blDlRPH.medium",
+            "large": "https://guide-images.cdn.ifixit.com/igi/ZjF2v1rp6blDlRPH.large",
+            "huge": "https://guide-images.cdn.ifixit.com/igi/ZjF2v1rp6blDlRPH.huge",
+            "original": "https://guide-images.cdn.ifixit.com/igi/ZjF2v1rp6blDlRPH.full"
+          },
+          {
+            "id": 233105,
+            "guid": "wFMUjuiBPwMGS1Qc",
+            "mini": "https://guide-images.cdn.ifixit.com/igi/wFMUjuiBPwMGS1Qc.mini",
+            "thumbnail": "https://guide-images.cdn.ifixit.com/igi/wFMUjuiBPwMGS1Qc.thumbnail",
+            "140x105": "https://guide-images.cdn.ifixit.com/igi/wFMUjuiBPwMGS1Qc.140x105",
+            "200x150": "https://guide-images.cdn.ifixit.com/igi/wFMUjuiBPwMGS1Qc.200x150",
+            "standard": "https://guide-images.cdn.ifixit.com/igi/wFMUjuiBPwMGS1Qc.standard",
+            "440x330": "https://guide-images.cdn.ifixit.com/igi/wFMUjuiBPwMGS1Qc.440x330",
+            "medium": "https://guide-images.cdn.ifixit.com/igi/wFMUjuiBPwMGS1Qc.medium",
+            "large": "https://guide-images.cdn.ifixit.com/igi/wFMUjuiBPwMGS1Qc.large",
+            "huge": "https://guide-images.cdn.ifixit.com/igi/wFMUjuiBPwMGS1Qc.huge",
+            "original": "https://guide-images.cdn.ifixit.com/igi/wFMUjuiBPwMGS1Qc.full"
+          }
+        ]
+      },
+      "comments": []
+    },
+    {
+      "title": "",
+      "lines": [
+        {
+          "text_raw": "We quickly get to work slicing through the Orange's thick peel with the oOpener, spiraling down like whirlybirds in the breeze.",
+          "bullet": "black",
+          "level": 0,
+          "lineid": null,
+          "text_rendered": "We quickly get to work slicing through the Orange's thick peel with the oOpener, spiraling down like whirlybirds in the breeze."
+        },
+        {
+          "text_raw": "Having the right tool for the job is a truly heartwarming experience. We hold back the overflow of nostalgia as the oOpener brings back fond memories of [http://guide-images.ifixit.net/igi/NlAqo5mVAYyuXPVc.large|early spudger escapades|new_window=true].",
+          "bullet": "black",
+          "level": 0,
+          "lineid": null,
+          "text_rendered": "Having the right tool for the job is a truly heartwarming experience. We hold back the overflow of nostalgia as the oOpener brings back fond memories of <a href=\"http://guide-images.ifixit.net/igi/NlAqo5mVAYyuXPVc.large\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">early spudger escapades</a>."
+        }
+      ],
+      "guideid": 13470,
+      "stepid": 45546,
+      "orderby": 9,
+      "revisionid": 870512,
+      "media": {
+        "type": "image",
+        "data": [
+          {
+            "id": 233107,
+            "guid": "P6ElSyUbcjYyRMBl",
+            "mini": "https://guide-images.cdn.ifixit.com/igi/P6ElSyUbcjYyRMBl.mini",
+            "thumbnail": "https://guide-images.cdn.ifixit.com/igi/P6ElSyUbcjYyRMBl.thumbnail",
+            "140x105": "https://guide-images.cdn.ifixit.com/igi/P6ElSyUbcjYyRMBl.140x105",
+            "200x150": "https://guide-images.cdn.ifixit.com/igi/P6ElSyUbcjYyRMBl.200x150",
+            "standard": "https://guide-images.cdn.ifixit.com/igi/P6ElSyUbcjYyRMBl.standard",
+            "440x330": "https://guide-images.cdn.ifixit.com/igi/P6ElSyUbcjYyRMBl.440x330",
+            "medium": "https://guide-images.cdn.ifixit.com/igi/P6ElSyUbcjYyRMBl.medium",
+            "large": "https://guide-images.cdn.ifixit.com/igi/P6ElSyUbcjYyRMBl.large",
+            "huge": "https://guide-images.cdn.ifixit.com/igi/P6ElSyUbcjYyRMBl.huge",
+            "original": "https://guide-images.cdn.ifixit.com/igi/P6ElSyUbcjYyRMBl.full"
+          },
+          {
+            "id": 233117,
+            "guid": "AgcJQCnBiXRWnUTd",
+            "mini": "https://guide-images.cdn.ifixit.com/igi/AgcJQCnBiXRWnUTd.mini",
+            "thumbnail": "https://guide-images.cdn.ifixit.com/igi/AgcJQCnBiXRWnUTd.thumbnail",
+            "140x105": "https://guide-images.cdn.ifixit.com/igi/AgcJQCnBiXRWnUTd.140x105",
+            "200x150": "https://guide-images.cdn.ifixit.com/igi/AgcJQCnBiXRWnUTd.200x150",
+            "standard": "https://guide-images.cdn.ifixit.com/igi/AgcJQCnBiXRWnUTd.standard",
+            "440x330": "https://guide-images.cdn.ifixit.com/igi/AgcJQCnBiXRWnUTd.440x330",
+            "medium": "https://guide-images.cdn.ifixit.com/igi/AgcJQCnBiXRWnUTd.medium",
+            "large": "https://guide-images.cdn.ifixit.com/igi/AgcJQCnBiXRWnUTd.large",
+            "huge": "https://guide-images.cdn.ifixit.com/igi/AgcJQCnBiXRWnUTd.huge",
+            "original": "https://guide-images.cdn.ifixit.com/igi/AgcJQCnBiXRWnUTd.full"
+          },
+          {
+            "id": 233118,
+            "guid": "Sw4q2rJBTMkCFuvg",
+            "mini": "https://guide-images.cdn.ifixit.com/igi/Sw4q2rJBTMkCFuvg.mini",
+            "thumbnail": "https://guide-images.cdn.ifixit.com/igi/Sw4q2rJBTMkCFuvg.thumbnail",
+            "140x105": "https://guide-images.cdn.ifixit.com/igi/Sw4q2rJBTMkCFuvg.140x105",
+            "200x150": "https://guide-images.cdn.ifixit.com/igi/Sw4q2rJBTMkCFuvg.200x150",
+            "standard": "https://guide-images.cdn.ifixit.com/igi/Sw4q2rJBTMkCFuvg.standard",
+            "440x330": "https://guide-images.cdn.ifixit.com/igi/Sw4q2rJBTMkCFuvg.440x330",
+            "medium": "https://guide-images.cdn.ifixit.com/igi/Sw4q2rJBTMkCFuvg.medium",
+            "large": "https://guide-images.cdn.ifixit.com/igi/Sw4q2rJBTMkCFuvg.large",
+            "huge": "https://guide-images.cdn.ifixit.com/igi/Sw4q2rJBTMkCFuvg.huge",
+            "original": "https://guide-images.cdn.ifixit.com/igi/Sw4q2rJBTMkCFuvg.full"
+          }
+        ]
+      },
+      "comments": []
+    },
+    {
+      "title": "",
+      "lines": [
+        {
+          "text_raw": "A plastic opening tool allows us to finish the job started with the armor-piercing strength of the oOpener.",
+          "bullet": "black",
+          "level": 0,
+          "lineid": null,
+          "text_rendered": "A plastic opening tool allows us to finish the job started with the armor-piercing strength of the oOpener."
+        },
+        {
+          "text_raw": "Prying things open with a plastic opening tool—finally [http://www.youtube.com/watch?v=_kQBVneC30o|a familiar tune|new_window=true] for us.",
+          "bullet": "black",
+          "level": 0,
+          "lineid": null,
+          "text_rendered": "Prying things open with a plastic opening tool—finally <a href=\"http://www.youtube.com/watch?v=_kQBVneC30o\" target=\"_blank\">a familiar tune</a> for us."
+        }
+      ],
+      "guideid": 13470,
+      "stepid": 45549,
+      "orderby": 10,
+      "revisionid": 877517,
+      "media": {
+        "type": "image",
+        "data": [
+          {
+            "id": 233109,
+            "guid": "qXRNuEuOGMLGRHIk",
+            "mini": "https://guide-images.cdn.ifixit.com/igi/qXRNuEuOGMLGRHIk.mini",
+            "thumbnail": "https://guide-images.cdn.ifixit.com/igi/qXRNuEuOGMLGRHIk.thumbnail",
+            "140x105": "https://guide-images.cdn.ifixit.com/igi/qXRNuEuOGMLGRHIk.140x105",
+            "200x150": "https://guide-images.cdn.ifixit.com/igi/qXRNuEuOGMLGRHIk.200x150",
+            "standard": "https://guide-images.cdn.ifixit.com/igi/qXRNuEuOGMLGRHIk.standard",
+            "440x330": "https://guide-images.cdn.ifixit.com/igi/qXRNuEuOGMLGRHIk.440x330",
+            "medium": "https://guide-images.cdn.ifixit.com/igi/qXRNuEuOGMLGRHIk.medium",
+            "large": "https://guide-images.cdn.ifixit.com/igi/qXRNuEuOGMLGRHIk.large",
+            "huge": "https://guide-images.cdn.ifixit.com/igi/qXRNuEuOGMLGRHIk.huge",
+            "original": "https://guide-images.cdn.ifixit.com/igi/qXRNuEuOGMLGRHIk.full"
+          },
+          {
+            "id": 233114,
+            "guid": "pABZWD22G1ZcEqoL",
+            "mini": "https://guide-images.cdn.ifixit.com/igi/pABZWD22G1ZcEqoL.mini",
+            "thumbnail": "https://guide-images.cdn.ifixit.com/igi/pABZWD22G1ZcEqoL.thumbnail",
+            "140x105": "https://guide-images.cdn.ifixit.com/igi/pABZWD22G1ZcEqoL.140x105",
+            "200x150": "https://guide-images.cdn.ifixit.com/igi/pABZWD22G1ZcEqoL.200x150",
+            "standard": "https://guide-images.cdn.ifixit.com/igi/pABZWD22G1ZcEqoL.standard",
+            "440x330": "https://guide-images.cdn.ifixit.com/igi/pABZWD22G1ZcEqoL.440x330",
+            "medium": "https://guide-images.cdn.ifixit.com/igi/pABZWD22G1ZcEqoL.medium",
+            "large": "https://guide-images.cdn.ifixit.com/igi/pABZWD22G1ZcEqoL.large",
+            "huge": "https://guide-images.cdn.ifixit.com/igi/pABZWD22G1ZcEqoL.huge",
+            "original": "https://guide-images.cdn.ifixit.com/igi/pABZWD22G1ZcEqoL.full"
+          }
+        ]
+      },
+      "comments": []
+    },
+    {
+      "title": "",
+      "lines": [
+        {
+          "text_raw": "It took us ten steps, but we finally managed to penetrate the impenetrable.",
+          "bullet": "black",
+          "level": 0,
+          "lineid": null,
+          "text_rendered": "It took us ten steps, but we finally managed to penetrate the impenetrable."
+        },
+        {
+          "text_raw": "As an added bonus, the Orange comes with a free accessory, the Orange Peel—an amusing, Slinky-like contraption, guaranteed to deliver hours of fun.",
+          "bullet": "black",
+          "level": 0,
+          "lineid": null,
+          "text_rendered": "As an added bonus, the Orange comes with a free accessory, the Orange Peel—an amusing, Slinky-like contraption, guaranteed to deliver hours of fun."
+        }
+      ],
+      "guideid": 13470,
+      "stepid": 45550,
+      "orderby": 11,
+      "revisionid": 877938,
+      "media": {
+        "type": "image",
+        "data": [
+          {
+            "id": 233112,
+            "guid": "dG6kt5OY6EX2bjJo",
+            "mini": "https://guide-images.cdn.ifixit.com/igi/dG6kt5OY6EX2bjJo.mini",
+            "thumbnail": "https://guide-images.cdn.ifixit.com/igi/dG6kt5OY6EX2bjJo.thumbnail",
+            "140x105": "https://guide-images.cdn.ifixit.com/igi/dG6kt5OY6EX2bjJo.140x105",
+            "200x150": "https://guide-images.cdn.ifixit.com/igi/dG6kt5OY6EX2bjJo.200x150",
+            "standard": "https://guide-images.cdn.ifixit.com/igi/dG6kt5OY6EX2bjJo.standard",
+            "440x330": "https://guide-images.cdn.ifixit.com/igi/dG6kt5OY6EX2bjJo.440x330",
+            "medium": "https://guide-images.cdn.ifixit.com/igi/dG6kt5OY6EX2bjJo.medium",
+            "large": "https://guide-images.cdn.ifixit.com/igi/dG6kt5OY6EX2bjJo.large",
+            "huge": "https://guide-images.cdn.ifixit.com/igi/dG6kt5OY6EX2bjJo.huge",
+            "original": "https://guide-images.cdn.ifixit.com/igi/dG6kt5OY6EX2bjJo.full"
+          },
+          {
+            "id": 233120,
+            "guid": "DGFBkptZVSmn4pwR",
+            "mini": "https://guide-images.cdn.ifixit.com/igi/DGFBkptZVSmn4pwR.mini",
+            "thumbnail": "https://guide-images.cdn.ifixit.com/igi/DGFBkptZVSmn4pwR.thumbnail",
+            "140x105": "https://guide-images.cdn.ifixit.com/igi/DGFBkptZVSmn4pwR.140x105",
+            "200x150": "https://guide-images.cdn.ifixit.com/igi/DGFBkptZVSmn4pwR.200x150",
+            "standard": "https://guide-images.cdn.ifixit.com/igi/DGFBkptZVSmn4pwR.standard",
+            "440x330": "https://guide-images.cdn.ifixit.com/igi/DGFBkptZVSmn4pwR.440x330",
+            "medium": "https://guide-images.cdn.ifixit.com/igi/DGFBkptZVSmn4pwR.medium",
+            "large": "https://guide-images.cdn.ifixit.com/igi/DGFBkptZVSmn4pwR.large",
+            "huge": "https://guide-images.cdn.ifixit.com/igi/DGFBkptZVSmn4pwR.huge",
+            "original": "https://guide-images.cdn.ifixit.com/igi/DGFBkptZVSmn4pwR.full"
+          },
+          {
+            "id": 233121,
+            "guid": "paJUqlegITPRAjaY",
+            "mini": "https://guide-images.cdn.ifixit.com/igi/paJUqlegITPRAjaY.mini",
+            "thumbnail": "https://guide-images.cdn.ifixit.com/igi/paJUqlegITPRAjaY.thumbnail",
+            "140x105": "https://guide-images.cdn.ifixit.com/igi/paJUqlegITPRAjaY.140x105",
+            "200x150": "https://guide-images.cdn.ifixit.com/igi/paJUqlegITPRAjaY.200x150",
+            "standard": "https://guide-images.cdn.ifixit.com/igi/paJUqlegITPRAjaY.standard",
+            "440x330": "https://guide-images.cdn.ifixit.com/igi/paJUqlegITPRAjaY.440x330",
+            "medium": "https://guide-images.cdn.ifixit.com/igi/paJUqlegITPRAjaY.medium",
+            "large": "https://guide-images.cdn.ifixit.com/igi/paJUqlegITPRAjaY.large",
+            "huge": "https://guide-images.cdn.ifixit.com/igi/paJUqlegITPRAjaY.huge",
+            "original": "https://guide-images.cdn.ifixit.com/igi/paJUqlegITPRAjaY.full"
+          }
+        ]
+      },
+      "comments": []
+    },
+    {
+      "title": "",
+      "lines": [
+        {
+          "text_raw": "''Results may vary. Your Orange Peel may not actually look like a Slinky. Do not try to use Peel as a Slinky. Do not try to use Peel as any form of toy. Do not give Peel to children. Consult a doctor if you feel that your Orange Peel is not Slinky-y enough. ''",
+          "bullet": "black",
+          "level": 0,
+          "lineid": null,
+          "text_rendered": "<em>Results may vary. Your Orange Peel may not actually look like a Slinky. Do not try to use Peel as a Slinky. Do not try to use Peel as any form of toy. Do not give Peel to children. Consult a doctor if you feel that your Orange Peel is not Slinky-y enough. </em>"
+        }
+      ],
+      "guideid": 13470,
+      "stepid": 45639,
+      "orderby": 12,
+      "revisionid": 878465,
+      "media": {
+        "type": "video",
+        "data": {
+          "objectid": 25,
+          "videoid": 16,
+          "srcid": null,
+          "image": {
+            "image": {
+              "id": 233806,
+              "guid": "xnkVOPMppbdVXyRC",
+              "mini": "https://guide-images.cdn.ifixit.com/igi/xnkVOPMppbdVXyRC.mini",
+              "thumbnail": "https://guide-images.cdn.ifixit.com/igi/xnkVOPMppbdVXyRC.thumbnail",
+              "140x105": "https://guide-images.cdn.ifixit.com/igi/xnkVOPMppbdVXyRC.140x105",
+              "200x150": "https://guide-images.cdn.ifixit.com/igi/xnkVOPMppbdVXyRC.200x150",
+              "standard": "https://guide-images.cdn.ifixit.com/igi/xnkVOPMppbdVXyRC.standard",
+              "440x330": "https://guide-images.cdn.ifixit.com/igi/xnkVOPMppbdVXyRC.440x330",
+              "medium": "https://guide-images.cdn.ifixit.com/igi/xnkVOPMppbdVXyRC.medium",
+              "large": "https://guide-images.cdn.ifixit.com/igi/xnkVOPMppbdVXyRC.large",
+              "original": "https://guide-images.cdn.ifixit.com/igi/xnkVOPMppbdVXyRC.full"
+            },
+            "srcid": null,
+            "width": 1280,
+            "height": 720,
+            "ratio": "VARIABLE",
+            "markup": null,
+            "exif": []
+          },
+          "filename": "Orange-Stairs.mov",
+          "duration": 9275,
+          "width": 1280,
+          "height": 720,
+          "meta": {
+            "total_bitrate_in_kbps": 9399,
+            "state": "finished",
+            "height": 720,
+            "duration_in_ms": 9275,
+            "channels": "2",
+            "video_bitrate_in_kbps": 9397,
+            "width": 1280,
+            "format": "mpeg4",
+            "video_codec": "h264",
+            "audio_bitrate_in_kbps": 2,
+            "frame_rate": 29.97,
+            "audio_codec": "aac",
+            "file_size_in_bytes": 10905093,
+            "id": 42178791,
+            "md5_checksum": null,
+            "audio_sample_rate": 44100
+          },
+          "encodings": [
+            {
+              "column": "MP4_720",
+              "label": "Medium",
+              "width": 720,
+              "height": 480,
+              "codecs": "avc1.42E01E, mp4a.40.2",
+              "mime": "video/mp4",
+              "always_generate": true,
+              "url": "https://ifixit-guide-objects.s3.amazonaws.com/igo/video/ifixit/mpF5CoxjiCXZ2c2C_MP4_720.mp4",
+              "format": "mp4"
+            },
+            {
+              "column": "MP4_592",
+              "label": "Low",
+              "width": 592,
+              "height": 444,
+              "max_video_bitrate": 1500,
+              "codecs": "avc1.42E01E, mp4a.40.2",
+              "mime": "video/mp4",
+              "always_generate": true,
+              "url": "https://ifixit-guide-objects.s3.amazonaws.com/igo/video/ifixit/mpF5CoxjiCXZ2c2C_MP4_592.mp4",
+              "format": "mp4"
+            },
+            {
+              "column": "WEBM",
+              "label": "Low",
+              "width": 592,
+              "height": 444,
+              "codecs": "vp8, vorbis",
+              "mime": "video/webm",
+              "always_generate": true,
+              "url": "https://ifixit-guide-objects.s3.amazonaws.com/igo/video/ifixit/mpF5CoxjiCXZ2c2C_WEBM.webm",
+              "format": "webm"
+            },
+            {
+              "column": "OGG",
+              "label": "Low",
+              "width": 592,
+              "height": 444,
+              "codecs": "theora, vorbis",
+              "mime": "video/ogg",
+              "always_generate": true,
+              "url": "https://ifixit-guide-objects.s3.amazonaws.com/igo/video/ifixit/mpF5CoxjiCXZ2c2C_OGG.ogg",
+              "format": "ogg"
+            }
+          ]
+        }
+      },
+      "comments": []
+    },
+    {
+      "title": "",
+      "lines": [
+        {
+          "text_raw": "Now that we've removed the rind, let's take a brief scientific look at the make-up of the Orange in the first ever segment of '''Fruit Science with iFixit!'''",
+          "bullet": "black",
+          "level": 0,
+          "lineid": null,
+          "text_rendered": "Now that we've removed the rind, let's take a brief scientific look at the make-up of the Orange in the first ever segment of <strong>Fruit Science with iFixit!</strong>"
+        },
+        {
+          "text_raw": "Oranges and other citrus fruits are of the order Hesperidium—a kind of berry with a tough, leathery rind.",
+          "bullet": "black",
+          "level": 0,
+          "lineid": null,
+          "text_rendered": "Oranges and other citrus fruits are of the order Hesperidium—a kind of berry with a tough, leathery rind."
+        },
+        {
+          "text_raw": "The three important layers of such fruits are the exocarp (rind), mesocarp (pith), and endocarp (the delicious edible part).",
+          "bullet": "black",
+          "level": 0,
+          "lineid": null,
+          "text_rendered": "The three important layers of such fruits are the exocarp (rind), mesocarp (pith), and endocarp (the delicious edible part)."
+        }
+      ],
+      "guideid": 13470,
+      "stepid": 45552,
+      "orderby": 13,
+      "revisionid": 877664,
+      "media": {
+        "type": "image",
+        "data": [
+          {
+            "id": 233216,
+            "guid": "vJXFt4AmBSViTwLI",
+            "mini": "https://guide-images.cdn.ifixit.com/igi/vJXFt4AmBSViTwLI.mini",
+            "thumbnail": "https://guide-images.cdn.ifixit.com/igi/vJXFt4AmBSViTwLI.thumbnail",
+            "140x105": "https://guide-images.cdn.ifixit.com/igi/vJXFt4AmBSViTwLI.140x105",
+            "200x150": "https://guide-images.cdn.ifixit.com/igi/vJXFt4AmBSViTwLI.200x150",
+            "standard": "https://guide-images.cdn.ifixit.com/igi/vJXFt4AmBSViTwLI.standard",
+            "440x330": "https://guide-images.cdn.ifixit.com/igi/vJXFt4AmBSViTwLI.440x330",
+            "medium": "https://guide-images.cdn.ifixit.com/igi/vJXFt4AmBSViTwLI.medium",
+            "large": "https://guide-images.cdn.ifixit.com/igi/vJXFt4AmBSViTwLI.large",
+            "huge": "https://guide-images.cdn.ifixit.com/igi/vJXFt4AmBSViTwLI.huge",
+            "original": "https://guide-images.cdn.ifixit.com/igi/vJXFt4AmBSViTwLI.full"
+          },
+          {
+            "id": 233201,
+            "guid": "pDGdFTuwdEbBLB5r",
+            "mini": "https://guide-images.cdn.ifixit.com/igi/pDGdFTuwdEbBLB5r.mini",
+            "thumbnail": "https://guide-images.cdn.ifixit.com/igi/pDGdFTuwdEbBLB5r.thumbnail",
+            "140x105": "https://guide-images.cdn.ifixit.com/igi/pDGdFTuwdEbBLB5r.140x105",
+            "200x150": "https://guide-images.cdn.ifixit.com/igi/pDGdFTuwdEbBLB5r.200x150",
+            "standard": "https://guide-images.cdn.ifixit.com/igi/pDGdFTuwdEbBLB5r.standard",
+            "440x330": "https://guide-images.cdn.ifixit.com/igi/pDGdFTuwdEbBLB5r.440x330",
+            "medium": "https://guide-images.cdn.ifixit.com/igi/pDGdFTuwdEbBLB5r.medium",
+            "large": "https://guide-images.cdn.ifixit.com/igi/pDGdFTuwdEbBLB5r.large",
+            "huge": "https://guide-images.cdn.ifixit.com/igi/pDGdFTuwdEbBLB5r.huge",
+            "original": "https://guide-images.cdn.ifixit.com/igi/pDGdFTuwdEbBLB5r.full"
+          }
+        ]
+      },
+      "comments": []
+    },
+    {
+      "title": "",
+      "lines": [
+        {
+          "text_raw": "One final obstacle stands between us and sectioning the Orange into its component wedges.",
+          "bullet": "black",
+          "level": 0,
+          "lineid": null,
+          "text_rendered": "One final obstacle stands between us and sectioning the Orange into its component wedges."
+        },
+        {
+          "text_raw": "Gentle prying with a plastic opening tool separates the navel, freeing up the top of the Orange for separation.",
+          "bullet": "black",
+          "level": 0,
+          "lineid": null,
+          "text_rendered": "Gentle prying with a plastic opening tool separates the navel, freeing up the top of the Orange for separation."
+        },
+        {
+          "text_raw": "This appears to be yet another irreversible step; the Orange's repairability score will likely take another hit.",
+          "bullet": "black",
+          "level": 0,
+          "lineid": null,
+          "text_rendered": "This appears to be yet another irreversible step; the Orange's repairability score will likely take another hit."
+        }
+      ],
+      "guideid": 13470,
+      "stepid": 45553,
+      "orderby": 14,
+      "revisionid": 877562,
+      "media": {
+        "type": "image",
+        "data": [
+          {
+            "id": 233123,
+            "guid": "uATHAk2lZJYsLvRL",
+            "mini": "https://guide-images.cdn.ifixit.com/igi/uATHAk2lZJYsLvRL.mini",
+            "thumbnail": "https://guide-images.cdn.ifixit.com/igi/uATHAk2lZJYsLvRL.thumbnail",
+            "140x105": "https://guide-images.cdn.ifixit.com/igi/uATHAk2lZJYsLvRL.140x105",
+            "200x150": "https://guide-images.cdn.ifixit.com/igi/uATHAk2lZJYsLvRL.200x150",
+            "standard": "https://guide-images.cdn.ifixit.com/igi/uATHAk2lZJYsLvRL.standard",
+            "440x330": "https://guide-images.cdn.ifixit.com/igi/uATHAk2lZJYsLvRL.440x330",
+            "medium": "https://guide-images.cdn.ifixit.com/igi/uATHAk2lZJYsLvRL.medium",
+            "large": "https://guide-images.cdn.ifixit.com/igi/uATHAk2lZJYsLvRL.large",
+            "huge": "https://guide-images.cdn.ifixit.com/igi/uATHAk2lZJYsLvRL.huge",
+            "original": "https://guide-images.cdn.ifixit.com/igi/uATHAk2lZJYsLvRL.full"
+          }
+        ]
+      },
+      "comments": []
+    },
+    {
+      "title": "",
+      "lines": [
+        {
+          "text_raw": "We notice the resistance of some natural adhesive as we slowly pull the Orange apart.",
+          "bullet": "black",
+          "level": 0,
+          "lineid": null,
+          "text_rendered": "We notice the resistance of some natural adhesive as we slowly pull the Orange apart."
+        },
+        {
+          "text_raw": "It appears that if you are not careful enough whilst pulling the Orange apart, you will tear the sectional membranes of the Orange.",
+          "bullet": "black",
+          "level": 0,
+          "lineid": null,
+          "text_rendered": "It appears that if you are not careful enough whilst pulling the Orange apart, you will tear the sectional membranes of the Orange."
+        }
+      ],
+      "guideid": 13470,
+      "stepid": 45554,
+      "orderby": 15,
+      "revisionid": 877548,
+      "media": {
+        "type": "image",
+        "data": [
+          {
+            "id": 233125,
+            "guid": "tfAdIZnnhOojr6t6",
+            "mini": "https://guide-images.cdn.ifixit.com/igi/tfAdIZnnhOojr6t6.mini",
+            "thumbnail": "https://guide-images.cdn.ifixit.com/igi/tfAdIZnnhOojr6t6.thumbnail",
+            "140x105": "https://guide-images.cdn.ifixit.com/igi/tfAdIZnnhOojr6t6.140x105",
+            "200x150": "https://guide-images.cdn.ifixit.com/igi/tfAdIZnnhOojr6t6.200x150",
+            "standard": "https://guide-images.cdn.ifixit.com/igi/tfAdIZnnhOojr6t6.standard",
+            "440x330": "https://guide-images.cdn.ifixit.com/igi/tfAdIZnnhOojr6t6.440x330",
+            "medium": "https://guide-images.cdn.ifixit.com/igi/tfAdIZnnhOojr6t6.medium",
+            "large": "https://guide-images.cdn.ifixit.com/igi/tfAdIZnnhOojr6t6.large",
+            "huge": "https://guide-images.cdn.ifixit.com/igi/tfAdIZnnhOojr6t6.huge",
+            "original": "https://guide-images.cdn.ifixit.com/igi/tfAdIZnnhOojr6t6.full"
+          },
+          {
+            "id": 233126,
+            "guid": "mTJhcJFLrtVQEFag",
+            "mini": "https://guide-images.cdn.ifixit.com/igi/mTJhcJFLrtVQEFag.mini",
+            "thumbnail": "https://guide-images.cdn.ifixit.com/igi/mTJhcJFLrtVQEFag.thumbnail",
+            "140x105": "https://guide-images.cdn.ifixit.com/igi/mTJhcJFLrtVQEFag.140x105",
+            "200x150": "https://guide-images.cdn.ifixit.com/igi/mTJhcJFLrtVQEFag.200x150",
+            "standard": "https://guide-images.cdn.ifixit.com/igi/mTJhcJFLrtVQEFag.standard",
+            "440x330": "https://guide-images.cdn.ifixit.com/igi/mTJhcJFLrtVQEFag.440x330",
+            "medium": "https://guide-images.cdn.ifixit.com/igi/mTJhcJFLrtVQEFag.medium",
+            "large": "https://guide-images.cdn.ifixit.com/igi/mTJhcJFLrtVQEFag.large",
+            "huge": "https://guide-images.cdn.ifixit.com/igi/mTJhcJFLrtVQEFag.huge",
+            "original": "https://guide-images.cdn.ifixit.com/igi/mTJhcJFLrtVQEFag.full"
+          },
+          {
+            "id": 233127,
+            "guid": "IBQS2oSxCFMc4B1n",
+            "mini": "https://guide-images.cdn.ifixit.com/igi/IBQS2oSxCFMc4B1n.mini",
+            "thumbnail": "https://guide-images.cdn.ifixit.com/igi/IBQS2oSxCFMc4B1n.thumbnail",
+            "140x105": "https://guide-images.cdn.ifixit.com/igi/IBQS2oSxCFMc4B1n.140x105",
+            "200x150": "https://guide-images.cdn.ifixit.com/igi/IBQS2oSxCFMc4B1n.200x150",
+            "standard": "https://guide-images.cdn.ifixit.com/igi/IBQS2oSxCFMc4B1n.standard",
+            "440x330": "https://guide-images.cdn.ifixit.com/igi/IBQS2oSxCFMc4B1n.440x330",
+            "medium": "https://guide-images.cdn.ifixit.com/igi/IBQS2oSxCFMc4B1n.medium",
+            "large": "https://guide-images.cdn.ifixit.com/igi/IBQS2oSxCFMc4B1n.large",
+            "huge": "https://guide-images.cdn.ifixit.com/igi/IBQS2oSxCFMc4B1n.huge",
+            "original": "https://guide-images.cdn.ifixit.com/igi/IBQS2oSxCFMc4B1n.full"
+          }
+        ]
+      },
+      "comments": []
+    },
+    {
+      "title": "",
+      "lines": [
+        {
+          "text_raw": "We love modular devices, and this one is as modular as they come. Having modular components makes replacing each component a lot ~~tastier~~ easier.",
+          "bullet": "black",
+          "level": 0,
+          "lineid": null,
+          "text_rendered": "We love modular devices, and this one is as modular as they come. Having modular components makes replacing each component a lot <del>tastier</del> easier."
+        },
+        {
+          "text_raw": "All ten major internal components of this device are easily removable. However, we are worried that they might not go back together as easily as they come apart, a common problem in fruit repair.",
+          "bullet": "black",
+          "level": 0,
+          "lineid": null,
+          "text_rendered": "All ten major internal components of this device are easily removable. However, we are worried that they might not go back together as easily as they come apart, a common problem in fruit repair."
+        },
+        {
+          "text_raw": "Though the Orange's repairability is highly questionable, we do admire its end-of-life design. It is completely recyclable, compostable, and delicious-able. We hope that devices like this will some day [http://youtu.be/ZN5PoW7_kdA?t=4s|catch the attention|new_window=true] of other device manufacturers and help keep electronics out of landfills…unless they are compostable, of course!",
+          "bullet": "black",
+          "level": 0,
+          "lineid": null,
+          "text_rendered": "Though the Orange's repairability is highly questionable, we do admire its end-of-life design. It is completely recyclable, compostable, and delicious-able. We hope that devices like this will some day <a href=\"http://youtu.be/ZN5PoW7_kdA?t=4s\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">catch the attention</a> of other device manufacturers and help keep electronics out of landfills…unless they are compostable, of course!"
+        }
+      ],
+      "guideid": 13470,
+      "stepid": 45555,
+      "orderby": 16,
+      "revisionid": 877575,
+      "media": {
+        "type": "image",
+        "data": [
+          {
+            "id": 233129,
+            "guid": "EJqKWXSkgaACboXq",
+            "mini": "https://guide-images.cdn.ifixit.com/igi/EJqKWXSkgaACboXq.mini",
+            "thumbnail": "https://guide-images.cdn.ifixit.com/igi/EJqKWXSkgaACboXq.thumbnail",
+            "140x105": "https://guide-images.cdn.ifixit.com/igi/EJqKWXSkgaACboXq.140x105",
+            "200x150": "https://guide-images.cdn.ifixit.com/igi/EJqKWXSkgaACboXq.200x150",
+            "standard": "https://guide-images.cdn.ifixit.com/igi/EJqKWXSkgaACboXq.standard",
+            "440x330": "https://guide-images.cdn.ifixit.com/igi/EJqKWXSkgaACboXq.440x330",
+            "medium": "https://guide-images.cdn.ifixit.com/igi/EJqKWXSkgaACboXq.medium",
+            "large": "https://guide-images.cdn.ifixit.com/igi/EJqKWXSkgaACboXq.large",
+            "huge": "https://guide-images.cdn.ifixit.com/igi/EJqKWXSkgaACboXq.huge",
+            "original": "https://guide-images.cdn.ifixit.com/igi/EJqKWXSkgaACboXq.full"
+          },
+          {
+            "id": 233130,
+            "guid": "i6yP1eV3WfhA6KQb",
+            "mini": "https://guide-images.cdn.ifixit.com/igi/i6yP1eV3WfhA6KQb.mini",
+            "thumbnail": "https://guide-images.cdn.ifixit.com/igi/i6yP1eV3WfhA6KQb.thumbnail",
+            "140x105": "https://guide-images.cdn.ifixit.com/igi/i6yP1eV3WfhA6KQb.140x105",
+            "200x150": "https://guide-images.cdn.ifixit.com/igi/i6yP1eV3WfhA6KQb.200x150",
+            "standard": "https://guide-images.cdn.ifixit.com/igi/i6yP1eV3WfhA6KQb.standard",
+            "440x330": "https://guide-images.cdn.ifixit.com/igi/i6yP1eV3WfhA6KQb.440x330",
+            "medium": "https://guide-images.cdn.ifixit.com/igi/i6yP1eV3WfhA6KQb.medium",
+            "large": "https://guide-images.cdn.ifixit.com/igi/i6yP1eV3WfhA6KQb.large",
+            "huge": "https://guide-images.cdn.ifixit.com/igi/i6yP1eV3WfhA6KQb.huge",
+            "original": "https://guide-images.cdn.ifixit.com/igi/i6yP1eV3WfhA6KQb.full"
+          },
+          {
+            "id": 233131,
+            "guid": "SVDeeyFFPdZfrLdS",
+            "mini": "https://guide-images.cdn.ifixit.com/igi/SVDeeyFFPdZfrLdS.mini",
+            "thumbnail": "https://guide-images.cdn.ifixit.com/igi/SVDeeyFFPdZfrLdS.thumbnail",
+            "140x105": "https://guide-images.cdn.ifixit.com/igi/SVDeeyFFPdZfrLdS.140x105",
+            "200x150": "https://guide-images.cdn.ifixit.com/igi/SVDeeyFFPdZfrLdS.200x150",
+            "standard": "https://guide-images.cdn.ifixit.com/igi/SVDeeyFFPdZfrLdS.standard",
+            "440x330": "https://guide-images.cdn.ifixit.com/igi/SVDeeyFFPdZfrLdS.440x330",
+            "medium": "https://guide-images.cdn.ifixit.com/igi/SVDeeyFFPdZfrLdS.medium",
+            "large": "https://guide-images.cdn.ifixit.com/igi/SVDeeyFFPdZfrLdS.large",
+            "huge": "https://guide-images.cdn.ifixit.com/igi/SVDeeyFFPdZfrLdS.huge",
+            "original": "https://guide-images.cdn.ifixit.com/igi/SVDeeyFFPdZfrLdS.full"
+          }
+        ]
+      },
+      "comments": []
+    },
+    {
+      "title": "",
+      "lines": [
+        {
+          "text_raw": "Sectioning the left half reveals another component: the central column of the Orange.",
+          "bullet": "black",
+          "level": 0,
+          "lineid": null,
+          "text_rendered": "Sectioning the left half reveals another component: the central column of the Orange."
+        },
+        {
+          "text_raw": "The central column is a structural build-up of pith, the mesocarp layer of the Orange's body.",
+          "bullet": "icon_note",
+          "level": 0,
+          "lineid": null,
+          "text_rendered": "The central column is a structural build-up of pith, the mesocarp layer of the Orange's body."
+        },
+        {
+          "text_raw": "Turning a wedge over reveals more of the pithy mesocarp. Its utility is currently unknown; we suspect possibly EMI shielding?",
+          "bullet": "black",
+          "level": 0,
+          "lineid": null,
+          "text_rendered": "Turning a wedge over reveals more of the pithy mesocarp. Its utility is currently unknown; we suspect possibly EMI shielding?"
+        }
+      ],
+      "guideid": 13470,
+      "stepid": 45556,
+      "orderby": 17,
+      "revisionid": 877558,
+      "media": {
+        "type": "image",
+        "data": [
+          {
+            "id": 233132,
+            "guid": "DoJbRUrbltJom2r2",
+            "mini": "https://guide-images.cdn.ifixit.com/igi/DoJbRUrbltJom2r2.mini",
+            "thumbnail": "https://guide-images.cdn.ifixit.com/igi/DoJbRUrbltJom2r2.thumbnail",
+            "140x105": "https://guide-images.cdn.ifixit.com/igi/DoJbRUrbltJom2r2.140x105",
+            "200x150": "https://guide-images.cdn.ifixit.com/igi/DoJbRUrbltJom2r2.200x150",
+            "standard": "https://guide-images.cdn.ifixit.com/igi/DoJbRUrbltJom2r2.standard",
+            "440x330": "https://guide-images.cdn.ifixit.com/igi/DoJbRUrbltJom2r2.440x330",
+            "medium": "https://guide-images.cdn.ifixit.com/igi/DoJbRUrbltJom2r2.medium",
+            "large": "https://guide-images.cdn.ifixit.com/igi/DoJbRUrbltJom2r2.large",
+            "huge": "https://guide-images.cdn.ifixit.com/igi/DoJbRUrbltJom2r2.huge",
+            "original": "https://guide-images.cdn.ifixit.com/igi/DoJbRUrbltJom2r2.full"
+          },
+          {
+            "id": 233134,
+            "guid": "igQCTaQi4oPFkUtJ",
+            "mini": "https://guide-images.cdn.ifixit.com/igi/igQCTaQi4oPFkUtJ.mini",
+            "thumbnail": "https://guide-images.cdn.ifixit.com/igi/igQCTaQi4oPFkUtJ.thumbnail",
+            "140x105": "https://guide-images.cdn.ifixit.com/igi/igQCTaQi4oPFkUtJ.140x105",
+            "200x150": "https://guide-images.cdn.ifixit.com/igi/igQCTaQi4oPFkUtJ.200x150",
+            "standard": "https://guide-images.cdn.ifixit.com/igi/igQCTaQi4oPFkUtJ.standard",
+            "440x330": "https://guide-images.cdn.ifixit.com/igi/igQCTaQi4oPFkUtJ.440x330",
+            "medium": "https://guide-images.cdn.ifixit.com/igi/igQCTaQi4oPFkUtJ.medium",
+            "large": "https://guide-images.cdn.ifixit.com/igi/igQCTaQi4oPFkUtJ.large",
+            "huge": "https://guide-images.cdn.ifixit.com/igi/igQCTaQi4oPFkUtJ.huge",
+            "original": "https://guide-images.cdn.ifixit.com/igi/igQCTaQi4oPFkUtJ.full"
+          },
+          {
+            "id": 233133,
+            "guid": "P6cBHvxueY5JqTfP",
+            "mini": "https://guide-images.cdn.ifixit.com/igi/P6cBHvxueY5JqTfP.mini",
+            "thumbnail": "https://guide-images.cdn.ifixit.com/igi/P6cBHvxueY5JqTfP.thumbnail",
+            "140x105": "https://guide-images.cdn.ifixit.com/igi/P6cBHvxueY5JqTfP.140x105",
+            "200x150": "https://guide-images.cdn.ifixit.com/igi/P6cBHvxueY5JqTfP.200x150",
+            "standard": "https://guide-images.cdn.ifixit.com/igi/P6cBHvxueY5JqTfP.standard",
+            "440x330": "https://guide-images.cdn.ifixit.com/igi/P6cBHvxueY5JqTfP.440x330",
+            "medium": "https://guide-images.cdn.ifixit.com/igi/P6cBHvxueY5JqTfP.medium",
+            "large": "https://guide-images.cdn.ifixit.com/igi/P6cBHvxueY5JqTfP.large",
+            "huge": "https://guide-images.cdn.ifixit.com/igi/P6cBHvxueY5JqTfP.huge",
+            "original": "https://guide-images.cdn.ifixit.com/igi/P6cBHvxueY5JqTfP.full"
+          }
+        ]
+      },
+      "comments": []
+    },
+    {
+      "title": "",
+      "lines": [
+        {
+          "text_raw": "It's time to unlock the deeper mysteries of the Orange.",
+          "bullet": "black",
+          "level": 0,
+          "lineid": null,
+          "text_rendered": "It's time to unlock the deeper mysteries of the Orange."
+        },
+        {
+          "text_raw": "Unlike some of our [guide|10528|more complicated teardowns|new_window=true], a steady hand and a [product|IF145-185|sharp blade|new_window=true] are the only tools we need to get a view of a section's internal structure.",
+          "bullet": "black",
+          "level": 0,
+          "lineid": null,
+          "text_rendered": "Unlike some of our <a href=\"https://www.ifixit.com/Teardown/Apple+A6+Teardown/10528\" target=\"_blank\">more complicated teardowns</a>, a steady hand and a <a href=\"https://www.ifixit.com/Store/Tools/Precision-Utility-Knife/IF145-185\" target=\"_blank\">sharp blade</a> are the only tools we need to get a view of a section's internal structure."
+        },
+        {
+          "text_raw": "This may puncture the Orange's interior cells, causing acidic adhesive leakage. In the event of contact with this fluid, wash hands and eyes immediately…or just lick your fingers.",
+          "bullet": "icon_caution",
+          "level": 0,
+          "lineid": null,
+          "text_rendered": "This may puncture the Orange's interior cells, causing acidic adhesive leakage. In the event of contact with this fluid, wash hands and eyes immediately…or just lick your fingers."
+        }
+      ],
+      "guideid": 13470,
+      "stepid": 45557,
+      "orderby": 18,
+      "revisionid": 877578,
+      "media": {
+        "type": "image",
+        "data": [
+          {
+            "id": 233135,
+            "guid": "SCQj6jiP2OKtGqTo",
+            "mini": "https://guide-images.cdn.ifixit.com/igi/SCQj6jiP2OKtGqTo.mini",
+            "thumbnail": "https://guide-images.cdn.ifixit.com/igi/SCQj6jiP2OKtGqTo.thumbnail",
+            "140x105": "https://guide-images.cdn.ifixit.com/igi/SCQj6jiP2OKtGqTo.140x105",
+            "200x150": "https://guide-images.cdn.ifixit.com/igi/SCQj6jiP2OKtGqTo.200x150",
+            "standard": "https://guide-images.cdn.ifixit.com/igi/SCQj6jiP2OKtGqTo.standard",
+            "440x330": "https://guide-images.cdn.ifixit.com/igi/SCQj6jiP2OKtGqTo.440x330",
+            "medium": "https://guide-images.cdn.ifixit.com/igi/SCQj6jiP2OKtGqTo.medium",
+            "large": "https://guide-images.cdn.ifixit.com/igi/SCQj6jiP2OKtGqTo.large",
+            "huge": "https://guide-images.cdn.ifixit.com/igi/SCQj6jiP2OKtGqTo.huge",
+            "original": "https://guide-images.cdn.ifixit.com/igi/SCQj6jiP2OKtGqTo.full"
+          },
+          {
+            "id": 233136,
+            "guid": "sVrZTo4IXhYUDKIW",
+            "mini": "https://guide-images.cdn.ifixit.com/igi/sVrZTo4IXhYUDKIW.mini",
+            "thumbnail": "https://guide-images.cdn.ifixit.com/igi/sVrZTo4IXhYUDKIW.thumbnail",
+            "140x105": "https://guide-images.cdn.ifixit.com/igi/sVrZTo4IXhYUDKIW.140x105",
+            "200x150": "https://guide-images.cdn.ifixit.com/igi/sVrZTo4IXhYUDKIW.200x150",
+            "standard": "https://guide-images.cdn.ifixit.com/igi/sVrZTo4IXhYUDKIW.standard",
+            "440x330": "https://guide-images.cdn.ifixit.com/igi/sVrZTo4IXhYUDKIW.440x330",
+            "medium": "https://guide-images.cdn.ifixit.com/igi/sVrZTo4IXhYUDKIW.medium",
+            "large": "https://guide-images.cdn.ifixit.com/igi/sVrZTo4IXhYUDKIW.large",
+            "huge": "https://guide-images.cdn.ifixit.com/igi/sVrZTo4IXhYUDKIW.huge",
+            "original": "https://guide-images.cdn.ifixit.com/igi/sVrZTo4IXhYUDKIW.full"
+          }
+        ]
+      },
+      "comments": []
+    },
+    {
+      "title": "",
+      "lines": [
+        {
+          "text_raw": "With the wedge split, we get a serious look at the Orange's seriously small seeds.",
+          "bullet": "blue",
+          "level": 0,
+          "lineid": null,
+          "text_rendered": "With the wedge split, we get a serious look at the Orange's seriously small seeds."
+        },
+        {
+          "text_raw": "These [http://guide-images.ifixit.net/igi/YVvgJCHiCsOuQtGl|extremely small components|new_window=true] seem to be nested deep within the device. Repairability will definitely take a hit for this one.",
+          "bullet": "black",
+          "level": 0,
+          "lineid": null,
+          "text_rendered": "These <a href=\"http://guide-images.ifixit.net/igi/YVvgJCHiCsOuQtGl\" rel=\"nofollow noopener noreferrer\" target=\"_blank\">extremely small components</a> seem to be nested deep within the device. Repairability will definitely take a hit for this one."
+        },
+        {
+          "text_raw": "[http://en.wikipedia.org/wiki/Orange_(fruit)#Navel_oranges|Navel] Oranges, such as this, have small, sterile seeds that cannot be used to reproduce more Oranges—a cutting from an existing fruit-bearing tree must be grafted to another tree.",
+          "bullet": "black",
+          "level": 0,
+          "lineid": null,
+          "text_rendered": "<a href=\"http://en.wikipedia.org/wiki/Orange_(fruit)#Navel_oranges\">Navel</a> Oranges, such as this, have small, sterile seeds that cannot be used to reproduce more Oranges—a cutting from an existing fruit-bearing tree must be grafted to another tree."
+        },
+        {
+          "text_raw": "This is the most advanced anti-piracy DRM measure we've seen, definitively ensuring that Orange owners won't be able to produce copies of their Orange to share with their friends.",
+          "bullet": "icon_note",
+          "level": 1,
+          "lineid": null,
+          "text_rendered": "This is the most advanced anti-piracy DRM measure we've seen, definitively ensuring that Orange owners won't be able to produce copies of their Orange to share with their friends."
+        },
+        {
+          "text_raw": "We assume the device is supported by [http://www.orange.com/en/home|Orange Mobile]  but it remains to be seen if it will be released to [http://cdn.c.photoshelter.com/img-get/I0000eG2kHZXxbxI/s/750/750/CARRYING-ORANGES.jpg|other carriers] in the future.",
+          "bullet": "black",
+          "level": 1,
+          "lineid": null,
+          "text_rendered": "We assume the device is supported by <a href=\"http://www.orange.com/en/home\" rel=\"nofollow noopener noreferrer\">Orange Mobile</a>  but it remains to be seen if it will be released to <a href=\"http://cdn.c.photoshelter.com/img-get/I0000eG2kHZXxbxI/s/750/750/CARRYING-ORANGES.jpg\" rel=\"nofollow noopener noreferrer\">other carriers</a> in the future."
+        }
+      ],
+      "guideid": 13470,
+      "stepid": 45562,
+      "orderby": 19,
+      "revisionid": 878003,
+      "media": {
+        "type": "image",
+        "data": [
+          {
+            "id": 233203,
+            "guid": "RvQKZogjXLsXlM1P",
+            "mini": "https://guide-images.cdn.ifixit.com/igi/RvQKZogjXLsXlM1P.mini",
+            "thumbnail": "https://guide-images.cdn.ifixit.com/igi/RvQKZogjXLsXlM1P.thumbnail",
+            "140x105": "https://guide-images.cdn.ifixit.com/igi/RvQKZogjXLsXlM1P.140x105",
+            "200x150": "https://guide-images.cdn.ifixit.com/igi/RvQKZogjXLsXlM1P.200x150",
+            "standard": "https://guide-images.cdn.ifixit.com/igi/RvQKZogjXLsXlM1P.standard",
+            "440x330": "https://guide-images.cdn.ifixit.com/igi/RvQKZogjXLsXlM1P.440x330",
+            "medium": "https://guide-images.cdn.ifixit.com/igi/RvQKZogjXLsXlM1P.medium",
+            "large": "https://guide-images.cdn.ifixit.com/igi/RvQKZogjXLsXlM1P.large",
+            "huge": "https://guide-images.cdn.ifixit.com/igi/RvQKZogjXLsXlM1P.huge",
+            "original": "https://guide-images.cdn.ifixit.com/igi/RvQKZogjXLsXlM1P.full"
+          },
+          {
+            "id": 233194,
+            "guid": "YICZOcSOoATOncsN",
+            "mini": "https://guide-images.cdn.ifixit.com/igi/YICZOcSOoATOncsN.mini",
+            "thumbnail": "https://guide-images.cdn.ifixit.com/igi/YICZOcSOoATOncsN.thumbnail",
+            "140x105": "https://guide-images.cdn.ifixit.com/igi/YICZOcSOoATOncsN.140x105",
+            "200x150": "https://guide-images.cdn.ifixit.com/igi/YICZOcSOoATOncsN.200x150",
+            "standard": "https://guide-images.cdn.ifixit.com/igi/YICZOcSOoATOncsN.standard",
+            "440x330": "https://guide-images.cdn.ifixit.com/igi/YICZOcSOoATOncsN.440x330",
+            "medium": "https://guide-images.cdn.ifixit.com/igi/YICZOcSOoATOncsN.medium",
+            "large": "https://guide-images.cdn.ifixit.com/igi/YICZOcSOoATOncsN.large",
+            "huge": "https://guide-images.cdn.ifixit.com/igi/YICZOcSOoATOncsN.huge",
+            "original": "https://guide-images.cdn.ifixit.com/igi/YICZOcSOoATOncsN.full"
+          }
+        ]
+      },
+      "comments": []
+    },
+    {
+      "title": "",
+      "lines": [
+        {
+          "text_raw": "Orange Repairability Score: '''O out of 10''' (10 is easiest to repair).",
+          "bullet": "black",
+          "level": 0,
+          "lineid": null,
+          "text_rendered": "Orange Repairability Score: <strong>O out of 10</strong> (10 is easiest to repair)."
+        },
+        {
+          "text_raw": "Normal operation requires breaking the outer case.",
+          "bullet": "orange",
+          "level": 0,
+          "lineid": null,
+          "text_rendered": "Normal operation requires breaking the outer case."
+        },
+        {
+          "text_raw": "Partition membranes and linings are exceedingly fragile, and will break during casual use.",
+          "bullet": "orange",
+          "level": 0,
+          "lineid": null,
+          "text_rendered": "Partition membranes and linings are exceedingly fragile, and will break during casual use."
+        },
+        {
+          "text_raw": "Impossible to reassemble after opening.",
+          "bullet": "orange",
+          "level": 0,
+          "lineid": null,
+          "text_rendered": "Impossible to reassemble after opening."
+        },
+        {
+          "text_raw": "All components secured with some sort of natural adhesive.",
+          "bullet": "orange",
+          "level": 0,
+          "lineid": null,
+          "text_rendered": "All components secured with some sort of natural adhesive."
+        },
+        {
+          "text_raw": "Internal components filled with acid.",
+          "bullet": "orange",
+          "level": 0,
+          "lineid": null,
+          "text_rendered": "Internal components filled with acid."
+        }
+      ],
+      "guideid": 13470,
+      "stepid": 45563,
+      "orderby": 20,
+      "revisionid": 900633,
+      "media": {
+        "type": "image",
+        "data": [
+          {
+            "id": 272180,
+            "guid": "BCtBhD1TikuMFKYN",
+            "mini": "https://guide-images.cdn.ifixit.com/igi/BCtBhD1TikuMFKYN.mini",
+            "thumbnail": "https://guide-images.cdn.ifixit.com/igi/BCtBhD1TikuMFKYN.thumbnail",
+            "140x105": "https://guide-images.cdn.ifixit.com/igi/BCtBhD1TikuMFKYN.140x105",
+            "200x150": "https://guide-images.cdn.ifixit.com/igi/BCtBhD1TikuMFKYN.200x150",
+            "standard": "https://guide-images.cdn.ifixit.com/igi/BCtBhD1TikuMFKYN.standard",
+            "440x330": "https://guide-images.cdn.ifixit.com/igi/BCtBhD1TikuMFKYN.440x330",
+            "medium": "https://guide-images.cdn.ifixit.com/igi/BCtBhD1TikuMFKYN.medium",
+            "large": "https://guide-images.cdn.ifixit.com/igi/BCtBhD1TikuMFKYN.large",
+            "huge": "https://guide-images.cdn.ifixit.com/igi/BCtBhD1TikuMFKYN.huge",
+            "original": "https://guide-images.cdn.ifixit.com/igi/BCtBhD1TikuMFKYN.full"
+          },
+          {
+            "id": 233218,
+            "guid": "o5IQuxSoKZvwqlbV",
+            "mini": "https://guide-images.cdn.ifixit.com/igi/o5IQuxSoKZvwqlbV.mini",
+            "thumbnail": "https://guide-images.cdn.ifixit.com/igi/o5IQuxSoKZvwqlbV.thumbnail",
+            "140x105": "https://guide-images.cdn.ifixit.com/igi/o5IQuxSoKZvwqlbV.140x105",
+            "200x150": "https://guide-images.cdn.ifixit.com/igi/o5IQuxSoKZvwqlbV.200x150",
+            "standard": "https://guide-images.cdn.ifixit.com/igi/o5IQuxSoKZvwqlbV.standard",
+            "440x330": "https://guide-images.cdn.ifixit.com/igi/o5IQuxSoKZvwqlbV.440x330",
+            "medium": "https://guide-images.cdn.ifixit.com/igi/o5IQuxSoKZvwqlbV.medium",
+            "large": "https://guide-images.cdn.ifixit.com/igi/o5IQuxSoKZvwqlbV.large",
+            "huge": "https://guide-images.cdn.ifixit.com/igi/o5IQuxSoKZvwqlbV.huge",
+            "original": "https://guide-images.cdn.ifixit.com/igi/o5IQuxSoKZvwqlbV.full"
+          }
+        ]
+      },
+      "comments": [
+        {
+          "commentid": 133526,
+          "locale": "en",
+          "context": "step",
+          "contextid": 45563,
+          "parentid": null,
+          "author": {
+            "userid": 311583,
+            "username": "Mohammad Ali Jariteh",
+            "unique_username": null,
+            "join_date": 1301773283,
+            "image": {
+              "id": -32,
+              "guid": "default_avatar_placeholder_guid",
+              "original": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-5",
+              "mini": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-5.mini",
+              "thumbnail": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-5.thumbnail",
+              "140x105": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-5.140x105",
+              "200x150": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-5.200x150",
+              "standard": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-5.standard",
+              "440x330": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-5.440x330",
+              "medium": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-5.medium",
+              "large": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-5.large"
+            },
+            "reputation": 1,
+            "url": "https://www.ifixit.com/User/311583/Mohammad+Ali+Jariteh",
+            "teams": []
+          },
+          "title": "Orange Teardown",
+          "text_raw": "It was so funny!",
+          "text_rendered": "<p>It was so funny!</p>",
+          "rating": 0,
+          "date": 1412369410,
+          "modified_date": 1412369410,
+          "status": "public",
+          "replies": []
+        },
+        {
+          "commentid": 678253,
+          "locale": "en",
+          "context": "step",
+          "contextid": 45563,
+          "parentid": null,
+          "author": {
+            "userid": 795699,
+            "username": "Philip Le Riche",
+            "unique_username": "pleriche",
+            "join_date": 1392739058,
+            "image": {
+              "id": 320584,
+              "guid": "Z2CAaevj42N4L32x",
+              "mini": "https://guide-images.cdn.ifixit.com/igi/Z2CAaevj42N4L32x.mini",
+              "thumbnail": "https://guide-images.cdn.ifixit.com/igi/Z2CAaevj42N4L32x.thumbnail",
+              "medium": "https://guide-images.cdn.ifixit.com/igi/Z2CAaevj42N4L32x.medium",
+              "original": "https://guide-images.cdn.ifixit.com/igi/Z2CAaevj42N4L32x.full"
+            },
+            "reputation": 26911,
+            "url": "https://www.ifixit.com/User/795699/Philip+Le+Riche",
+            "teams": [
+              13246
+            ]
+          },
+          "title": "Orange Teardown",
+          "text_raw": "Please can we have an oyster disassembly guide? I’ve got an [https://store.ifixit.co.uk/products/isclack|iSlack] but the shell is too rough for it (or any other [https://store.ifixit.co.uk/products/suction-handle|suction cups]) to grip. [https://store.ifixit.co.uk/products/ifixit-opening-tool|Plastic opening tools] don’t seem strong enough, and whilst the [https://store.ifixit.co.uk/products/jimmy|jimmy] might do the job, is this really the correct tool to use?",
+          "text_rendered": "<p>Please can we have an oyster disassembly guide? I’ve got an <a href=\"https://store.ifixit.co.uk/products/isclack\" rel=\"nofollow noopener noreferrer\">iSlack</a> but the shell is too rough for it (or any other <a href=\"https://store.ifixit.co.uk/products/suction-handle\" rel=\"nofollow noopener noreferrer\">suction cups</a>) to grip. <a href=\"https://store.ifixit.co.uk/products/ifixit-opening-tool\" rel=\"nofollow noopener noreferrer\">Plastic opening tools</a> don’t seem strong enough, and whilst the <a href=\"https://store.ifixit.co.uk/products/jimmy\" rel=\"nofollow noopener noreferrer\">jimmy</a> might do the job, is this really the correct tool to use?</p>",
+          "rating": 0,
+          "date": 1599489108,
+          "modified_date": 1599489108,
+          "status": "public",
+          "replies": []
+        }
+      ]
+    }
+  ],
+  "subject": "",
+  "summary": "This Orange bit the bullet on April 1, 2013.",
+  "time_required": "No estimate",
+  "time_required_min": 0,
+  "time_required_max": 0,
+  "title": "Orange Teardown",
+  "tools": [
+    {
+      "type": "",
+      "quantity": 1,
+      "text": "Heat Gun",
+      "notes": null,
+      "url": "/Store/Tools/Heat-Gun/IF145-031",
+      "thumbnail": "https://cart-products.cdn.ifixit.com/cart-products/NNxQlYbBureEhbdN.thumbnail"
+    },
+    {
+      "type": "",
+      "quantity": 1,
+      "text": "iFixit 6 Inch Metal Ruler",
+      "notes": null,
+      "url": "/Store/Tools/iFixit-6-Inch-Metal-Ruler/IF145-108",
+      "thumbnail": "https://cart-products.cdn.ifixit.com/cart-products/KIL6tOCB6Qwcia66.thumbnail"
+    },
+    {
+      "type": "",
+      "quantity": 1,
+      "text": "iFixit Opening Picks set of 6",
+      "notes": null,
+      "url": "/Store/Tools/iFixit-Opening-Picks-Set-of-6/IF145-123",
+      "thumbnail": "https://cart-products.cdn.ifixit.com/cart-products/fDsOubGiL2QUMeOR.thumbnail"
+    },
+    {
+      "type": "",
+      "quantity": 1,
+      "text": "iFixit Tech Knife",
+      "notes": null,
+      "url": "/Store/Tools/Precision-Utility-Knife/IF145-185",
+      "thumbnail": "https://cart-products.cdn.ifixit.com/cart-products/ZgcT1BcBvqTMcFAU.thumbnail"
+    },
+    {
+      "type": "",
+      "quantity": 1,
+      "text": "P2 Pentalobe Screwdriver iPhone",
+      "notes": null,
+      "url": "/Store/Tools/P2-Pentalobe-Screwdriver-iPhone/IF145-096",
+      "thumbnail": "https://cart-products.cdn.ifixit.com/cart-products/APvZxKw6Zh2X3NgG.thumbnail"
+    },
+    {
+      "type": "",
+      "quantity": 1,
+      "text": "iSesamo Opening Tool",
+      "notes": null,
+      "url": "/Store/Tools/iSesamo-Opening-Tool/IF145-130",
+      "thumbnail": "https://cart-products.cdn.ifixit.com/cart-products/FtBFUulwFMFYlHJr.thumbnail"
+    },
+    {
+      "type": "",
+      "quantity": 1,
+      "text": "iFixit Opening Tool",
+      "notes": null,
+      "url": "/Store/Tools/iFixit-Opening-Tool/IF145-335",
+      "thumbnail": "https://cart-products.cdn.ifixit.com/cart-products/dPx63wucK43PlWnH.thumbnail"
+    },
+    {
+      "type": "",
+      "quantity": 1,
+      "text": "Tweezers",
+      "notes": null,
+      "url": "/Store/Tools/Tweezers/IF145-020",
+      "thumbnail": "https://cart-products.cdn.ifixit.com/cart-products/SgcjxIZnNVleJooT.thumbnail"
+    }
+  ],
+  "type": "teardown",
+  "revisionid": 1135528,
+  "created_date": 1364242082,
+  "published_date": 1364793837,
+  "modified_date": 1538980224,
+  "prereq_modified_date": 0,
+  "public": true,
+  "comments": [
+    {
+      "commentid": 93622,
+      "locale": "en",
+      "context": "guide",
+      "contextid": 13470,
+      "parentid": null,
+      "author": {
+        "userid": 451564,
+        "username": "Alex",
+        "unique_username": null,
+        "join_date": 1337228856,
+        "image": {
+          "id": -32,
+          "guid": "default_avatar_placeholder_guid",
+          "original": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-10",
+          "mini": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-10.mini",
+          "thumbnail": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-10.thumbnail",
+          "140x105": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-10.140x105",
+          "200x150": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-10.200x150",
+          "standard": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-10.standard",
+          "440x330": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-10.440x330",
+          "medium": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-10.medium",
+          "large": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-10.large"
+        },
+        "reputation": 1,
+        "url": "https://www.ifixit.com/User/451564/Alex",
+        "teams": []
+      },
+      "title": "Orange Teardown",
+      "text_raw": "So when will we see banana, pineapple, and pear teardowns?",
+      "text_rendered": "<p>So when will we see banana, pineapple, and pear teardowns?</p>",
+      "rating": 0,
+      "date": 1364795706,
+      "modified_date": 0,
+      "status": "public",
+      "replies": [
+        {
+          "commentid": 93658,
+          "locale": "en",
+          "context": "guide",
+          "contextid": 13470,
+          "parentid": 93622,
+          "author": {
+            "userid": 396010,
+            "username": "Tony Gines",
+            "unique_username": "tony",
+            "join_date": 1325522995,
+            "image": {
+              "id": 277251,
+              "guid": "nZ4wQT3TKG6hdvOc",
+              "mini": "https://guide-images.cdn.ifixit.com/igi/nZ4wQT3TKG6hdvOc.mini",
+              "thumbnail": "https://guide-images.cdn.ifixit.com/igi/nZ4wQT3TKG6hdvOc.thumbnail",
+              "140x105": "https://guide-images.cdn.ifixit.com/igi/nZ4wQT3TKG6hdvOc.140x105",
+              "200x150": "https://guide-images.cdn.ifixit.com/igi/nZ4wQT3TKG6hdvOc.200x150",
+              "standard": "https://guide-images.cdn.ifixit.com/igi/nZ4wQT3TKG6hdvOc.standard",
+              "440x330": "https://guide-images.cdn.ifixit.com/igi/nZ4wQT3TKG6hdvOc.440x330",
+              "medium": "https://guide-images.cdn.ifixit.com/igi/nZ4wQT3TKG6hdvOc.medium",
+              "large": "https://guide-images.cdn.ifixit.com/igi/nZ4wQT3TKG6hdvOc.large",
+              "original": "https://guide-images.cdn.ifixit.com/igi/nZ4wQT3TKG6hdvOc.full"
+            },
+            "reputation": 1441,
+            "url": "https://www.ifixit.com/User/396010/Tony+Gines",
+            "teams": []
+          },
+          "title": "Orange Teardown",
+          "text_raw": "The [http://www.ifixit.com/Teardown/Banana+Teardown/811/1|Banana teardown] is one of our favorites.",
+          "text_rendered": "<p>The <a href=\"/Teardown/Banana+Teardown/811\">Banana teardown</a> is one of our favorites.</p>",
+          "rating": 0,
+          "date": 1364840973,
+          "modified_date": 0,
+          "status": "public"
+        }
+      ]
+    },
+    {
+      "commentid": 93635,
+      "locale": "en",
+      "context": "guide",
+      "contextid": 13470,
+      "parentid": null,
+      "author": {
+        "userid": 320693,
+        "username": "tom",
+        "unique_username": null,
+        "join_date": 1304543475,
+        "image": {
+          "id": 100809,
+          "guid": "4TZQTM2kJY2isLut",
+          "mini": "https://guide-images.cdn.ifixit.com/igi/4TZQTM2kJY2isLut.mini",
+          "thumbnail": "https://guide-images.cdn.ifixit.com/igi/4TZQTM2kJY2isLut.thumbnail",
+          "medium": "https://guide-images.cdn.ifixit.com/igi/4TZQTM2kJY2isLut.medium",
+          "original": "https://guide-images.cdn.ifixit.com/igi/4TZQTM2kJY2isLut.full"
+        },
+        "reputation": 1,
+        "url": "https://www.ifixit.com/User/320693/tom",
+        "teams": []
+      },
+      "title": "Orange Teardown",
+      "text_raw": "Don't forget coconut",
+      "text_rendered": "<p>Don't forget coconut</p>",
+      "rating": 0,
+      "date": 1364831005,
+      "modified_date": 0,
+      "status": "public",
+      "replies": []
+    },
+    {
+      "commentid": 93641,
+      "locale": "en",
+      "context": "guide",
+      "contextid": 13470,
+      "parentid": null,
+      "author": {
+        "userid": 265301,
+        "username": "stcyr1up",
+        "unique_username": null,
+        "join_date": 1286637969,
+        "image": {
+          "id": -32,
+          "guid": "default_avatar_placeholder_guid",
+          "original": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-1",
+          "mini": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-1.mini",
+          "thumbnail": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-1.thumbnail",
+          "140x105": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-1.140x105",
+          "200x150": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-1.200x150",
+          "standard": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-1.standard",
+          "440x330": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-1.440x330",
+          "medium": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-1.medium",
+          "large": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-1.large"
+        },
+        "reputation": 1,
+        "url": "https://www.ifixit.com/User/265301/stcyr1up",
+        "teams": []
+      },
+      "title": "Orange Teardown",
+      "text_raw": "Happy April Fools Day !",
+      "text_rendered": "<p>Happy April Fools Day !</p>",
+      "rating": 0,
+      "date": 1364833679,
+      "modified_date": 0,
+      "status": "public",
+      "replies": [
+        {
+          "commentid": 776251,
+          "locale": "en",
+          "context": "guide",
+          "contextid": 13470,
+          "parentid": 93641,
+          "author": {
+            "userid": 3970068,
+            "username": "BeanMan56",
+            "unique_username": "beanman56",
+            "join_date": 1623304053,
+            "image": {
+              "id": 2437449,
+              "guid": "S3MKiR26XVannTUn",
+              "mini": "https://guide-images.cdn.ifixit.com/igi/S3MKiR26XVannTUn.mini",
+              "thumbnail": "https://guide-images.cdn.ifixit.com/igi/S3MKiR26XVannTUn.thumbnail",
+              "140x105": "https://guide-images.cdn.ifixit.com/igi/S3MKiR26XVannTUn.140x105",
+              "200x150": "https://guide-images.cdn.ifixit.com/igi/S3MKiR26XVannTUn.200x150",
+              "standard": "https://guide-images.cdn.ifixit.com/igi/S3MKiR26XVannTUn.standard",
+              "440x330": "https://guide-images.cdn.ifixit.com/igi/S3MKiR26XVannTUn.440x330",
+              "medium": "https://guide-images.cdn.ifixit.com/igi/S3MKiR26XVannTUn.medium",
+              "large": "https://guide-images.cdn.ifixit.com/igi/S3MKiR26XVannTUn.large",
+              "huge": "https://guide-images.cdn.ifixit.com/igi/S3MKiR26XVannTUn.huge",
+              "original": "https://guide-images.cdn.ifixit.com/igi/S3MKiR26XVannTUn.full"
+            },
+            "reputation": 1457,
+            "url": "https://www.ifixit.com/User/3970068/BeanMan56",
+            "teams": [
+              13246
+            ]
+          },
+          "title": "Orange Teardown",
+          "text_raw": "@stcyr1up WHAT DO YOU MEAN “April fools day“ really useing this irl",
+          "text_rendered": "<p>@stcyr1up WHAT DO YOU MEAN “April fools day“ really useing this irl</p>",
+          "rating": 0,
+          "date": 1637993106,
+          "modified_date": 0,
+          "status": "public"
+        }
+      ]
+    },
+    {
+      "commentid": 93644,
+      "locale": "en",
+      "context": "guide",
+      "contextid": 13470,
+      "parentid": null,
+      "author": {
+        "userid": 254535,
+        "username": "burkphoto",
+        "unique_username": null,
+        "join_date": 1282505309,
+        "image": {
+          "id": -32,
+          "guid": "default_avatar_placeholder_guid",
+          "original": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-10",
+          "mini": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-10.mini",
+          "thumbnail": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-10.thumbnail",
+          "140x105": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-10.140x105",
+          "200x150": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-10.200x150",
+          "standard": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-10.standard",
+          "440x330": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-10.440x330",
+          "medium": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-10.medium",
+          "large": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-10.large"
+        },
+        "reputation": 1,
+        "url": "https://www.ifixit.com/User/254535/burkphoto",
+        "teams": []
+      },
+      "title": "Orange Teardown",
+      "text_raw": "Okay, that's got to be the best waste of time by a bunch of nerds on silly break that I've seen in quite a while. When do we get to see M.J. do a video of this?",
+      "text_rendered": "<p>Okay, that's got to be the best waste of time by a bunch of nerds on silly break that I've seen in quite a while. When do we get to see M.J. do a video of this?</p>",
+      "rating": 0,
+      "date": 1364835861,
+      "modified_date": 0,
+      "status": "public",
+      "replies": []
+    },
+    {
+      "commentid": 93655,
+      "locale": "en",
+      "context": "guide",
+      "contextid": 13470,
+      "parentid": null,
+      "author": {
+        "userid": 91424,
+        "username": "vant",
+        "unique_username": null,
+        "join_date": null,
+        "image": {
+          "id": -32,
+          "guid": "default_avatar_placeholder_guid",
+          "original": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-3",
+          "mini": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-3.mini",
+          "thumbnail": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-3.thumbnail",
+          "140x105": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-3.140x105",
+          "200x150": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-3.200x150",
+          "standard": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-3.standard",
+          "440x330": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-3.440x330",
+          "medium": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-3.medium",
+          "large": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-3.large"
+        },
+        "reputation": 1,
+        "url": "https://www.ifixit.com/User/91424/vant",
+        "teams": []
+      },
+      "title": "Orange Teardown",
+      "text_raw": "ive been trying to find a replacmenet navel for my orange.  ebay does not have, where can i buy?  please respond",
+      "text_rendered": "<p>ive been trying to find a replacmenet navel for my orange.  ebay does not have, where can i buy?  please respond</p>",
+      "rating": 0,
+      "date": 1364837784,
+      "modified_date": 0,
+      "status": "public",
+      "replies": []
+    },
+    {
+      "commentid": 93660,
+      "locale": "en",
+      "context": "guide",
+      "contextid": 13470,
+      "parentid": null,
+      "author": {
+        "userid": 499350,
+        "username": "terrellelliott",
+        "unique_username": null,
+        "join_date": 1346111916,
+        "image": {
+          "id": -32,
+          "guid": "default_avatar_placeholder_guid",
+          "original": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-12",
+          "mini": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-12.mini",
+          "thumbnail": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-12.thumbnail",
+          "140x105": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-12.140x105",
+          "200x150": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-12.200x150",
+          "standard": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-12.standard",
+          "440x330": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-12.440x330",
+          "medium": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-12.medium",
+          "large": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-12.large"
+        },
+        "reputation": 1,
+        "url": "https://www.ifixit.com/User/499350/terrellelliott",
+        "teams": []
+      },
+      "title": "Orange Teardown",
+      "text_raw": "That is absolutely hilarious! I'm glad you guys don't take yourselves so seriously. I think I'll hold off on orange adoption until 2.0. Maybe by then they'll have done something about that zero repair-ability...",
+      "text_rendered": "<p>That is absolutely hilarious! I'm glad you guys don't take yourselves so seriously. I think I'll hold off on orange adoption until 2.0. Maybe by then they'll have done something about that zero repair-ability...</p>",
+      "rating": 0,
+      "date": 1364842788,
+      "modified_date": 0,
+      "status": "public",
+      "replies": []
+    },
+    {
+      "commentid": 93666,
+      "locale": "en",
+      "context": "guide",
+      "contextid": 13470,
+      "parentid": null,
+      "author": {
+        "userid": 586824,
+        "username": "dentednj",
+        "unique_username": null,
+        "join_date": 1361193429,
+        "image": {
+          "id": -32,
+          "guid": "default_avatar_placeholder_guid",
+          "original": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-4",
+          "mini": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-4.mini",
+          "thumbnail": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-4.thumbnail",
+          "140x105": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-4.140x105",
+          "200x150": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-4.200x150",
+          "standard": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-4.standard",
+          "440x330": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-4.440x330",
+          "medium": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-4.medium",
+          "large": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-4.large"
+        },
+        "reputation": 1,
+        "url": "https://www.ifixit.com/User/586824/dentednj",
+        "teams": []
+      },
+      "title": "Orange Teardown",
+      "text_raw": "Have you tried making an orange into a secret note carrier? Pry the stem nub off the one end of the whole orange. Take a pencil/pen/awl type point tool and pop through to the pace down the center of the orange sections. Now take a smallish note with a message and roll it into a small tube and insert in the space. Glue the stem nub back on the orange over the insertion hole. The person who peels the orange will have a pleasant surprise.",
+      "text_rendered": "<p>Have you tried making an orange into a secret note carrier? Pry the stem nub off the one end of the whole orange. Take a pencil/pen/awl type point tool and pop through to the pace down the center of the orange sections. Now take a smallish note with a message and roll it into a small tube and insert in the space. Glue the stem nub back on the orange over the insertion hole. The person who peels the orange will have a pleasant surprise.</p>",
+      "rating": 0,
+      "date": 1364848858,
+      "modified_date": 0,
+      "status": "public",
+      "replies": []
+    },
+    {
+      "commentid": 93677,
+      "locale": "en",
+      "context": "guide",
+      "contextid": 13470,
+      "parentid": null,
+      "author": {
+        "userid": 473062,
+        "username": "walkin mn",
+        "unique_username": null,
+        "join_date": 1341326325,
+        "image": {
+          "id": 174690,
+          "guid": "2fsjWPmXk16aWut2",
+          "mini": "https://guide-images.cdn.ifixit.com/igi/2fsjWPmXk16aWut2.mini",
+          "thumbnail": "https://guide-images.cdn.ifixit.com/igi/2fsjWPmXk16aWut2.thumbnail",
+          "medium": "https://guide-images.cdn.ifixit.com/igi/2fsjWPmXk16aWut2.medium",
+          "original": "https://guide-images.cdn.ifixit.com/igi/2fsjWPmXk16aWut2.full"
+        },
+        "reputation": 1,
+        "url": "https://www.ifixit.com/User/473062/walkin+mn",
+        "teams": []
+      },
+      "title": "Orange Teardown",
+      "text_raw": "nom nom guys, btw nom  i sell nom nom spare nom nom orange parts nom if any one nom is interesnom nom ted nom nom... i'm out of the juicy part.",
+      "text_rendered": "<p>nom nom guys, btw nom  i sell nom nom spare nom nom orange parts nom if any one nom is interesnom nom ted nom nom... i'm out of the juicy part.</p>",
+      "rating": 0,
+      "date": 1364862440,
+      "modified_date": 0,
+      "status": "public",
+      "replies": []
+    },
+    {
+      "commentid": 93695,
+      "locale": "en",
+      "context": "guide",
+      "contextid": 13470,
+      "parentid": null,
+      "author": {
+        "userid": 501035,
+        "username": "mebalzer",
+        "unique_username": null,
+        "join_date": 1346447336,
+        "image": {
+          "id": -32,
+          "guid": "default_avatar_placeholder_guid",
+          "original": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-9",
+          "mini": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-9.mini",
+          "thumbnail": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-9.thumbnail",
+          "140x105": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-9.140x105",
+          "200x150": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-9.200x150",
+          "standard": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-9.standard",
+          "440x330": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-9.440x330",
+          "medium": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-9.medium",
+          "large": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-9.large"
+        },
+        "reputation": 1,
+        "url": "https://www.ifixit.com/User/501035/mebalzer",
+        "teams": []
+      },
+      "title": "Orange Teardown",
+      "text_raw": "I hope you recycled the internal components when you were done.",
+      "text_rendered": "<p>I hope you recycled the internal components when you were done.</p>",
+      "rating": 0,
+      "date": 1364888389,
+      "modified_date": 0,
+      "status": "public",
+      "replies": []
+    },
+    {
+      "commentid": 119626,
+      "locale": "en",
+      "context": "guide",
+      "contextid": 13470,
+      "parentid": null,
+      "author": {
+        "userid": 501485,
+        "username": "bdwayneh",
+        "unique_username": null,
+        "join_date": 1346556191,
+        "image": {
+          "id": -32,
+          "guid": "default_avatar_placeholder_guid",
+          "original": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-12",
+          "mini": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-12.mini",
+          "thumbnail": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-12.thumbnail",
+          "140x105": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-12.140x105",
+          "200x150": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-12.200x150",
+          "standard": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-12.standard",
+          "440x330": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-12.440x330",
+          "medium": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-12.medium",
+          "large": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-12.large"
+        },
+        "reputation": 1,
+        "url": "https://www.ifixit.com/User/501485/bdwayneh",
+        "teams": []
+      },
+      "title": "Orange Teardown",
+      "text_raw": "Will this void my warranty??",
+      "text_rendered": "<p>Will this void my warranty??</p>",
+      "rating": 0,
+      "date": 1397580433,
+      "modified_date": 0,
+      "status": "public",
+      "replies": []
+    },
+    {
+      "commentid": 136144,
+      "locale": "en",
+      "context": "guide",
+      "contextid": 13470,
+      "parentid": null,
+      "author": {
+        "userid": 1006161,
+        "username": "zach",
+        "unique_username": null,
+        "join_date": 1414429049,
+        "image": {
+          "id": -32,
+          "guid": "default_avatar_placeholder_guid",
+          "original": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-7",
+          "mini": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-7.mini",
+          "thumbnail": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-7.thumbnail",
+          "140x105": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-7.140x105",
+          "200x150": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-7.200x150",
+          "standard": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-7.standard",
+          "440x330": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-7.440x330",
+          "medium": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-7.medium",
+          "large": "https://assets.cdn.ifixit.com/static/images/avatars/User/ifixit/avatar-7.large"
+        },
+        "reputation": 1,
+        "url": "https://www.ifixit.com/User/1006161/zach",
+        "teams": []
+      },
+      "title": "Orange Teardown",
+      "text_raw": "what the &&^& you crazy or something",
+      "text_rendered": "<p>what the &amp;&amp;^&amp; you crazy or something</p>",
+      "rating": 0,
+      "date": 1414429050,
+      "modified_date": 1414429050,
+      "status": "public",
+      "replies": []
+    },
+    {
+      "commentid": 185553,
+      "locale": "en",
+      "context": "guide",
+      "contextid": 13470,
+      "parentid": null,
+      "author": {
+        "userid": 1396056,
+        "username": "Kieran Tebbutt",
+        "unique_username": null,
+        "join_date": 1447167922,
+        "image": {
+          "id": 692906,
+          "guid": "laSE1Q3ER2Rk3oNa",
+          "mini": "https://guide-images.cdn.ifixit.com/igi/laSE1Q3ER2Rk3oNa.mini",
+          "thumbnail": "https://guide-images.cdn.ifixit.com/igi/laSE1Q3ER2Rk3oNa.thumbnail",
+          "140x105": "https://guide-images.cdn.ifixit.com/igi/laSE1Q3ER2Rk3oNa.140x105",
+          "200x150": "https://guide-images.cdn.ifixit.com/igi/laSE1Q3ER2Rk3oNa.200x150",
+          "standard": "https://guide-images.cdn.ifixit.com/igi/laSE1Q3ER2Rk3oNa.standard",
+          "440x330": "https://guide-images.cdn.ifixit.com/igi/laSE1Q3ER2Rk3oNa.440x330",
+          "medium": "https://guide-images.cdn.ifixit.com/igi/laSE1Q3ER2Rk3oNa.medium",
+          "original": "https://guide-images.cdn.ifixit.com/igi/laSE1Q3ER2Rk3oNa.full"
+        },
+        "reputation": 1,
+        "url": "https://www.ifixit.com/User/1396056/Kieran+Tebbutt",
+        "teams": [
+          10762
+        ]
+      },
+      "title": "Orange Teardown",
+      "text_raw": "To reassemble, follow steps in reverse order.",
+      "text_rendered": "<p>To reassemble, follow steps in reverse order.</p>",
+      "rating": 0,
+      "date": 1447262815,
+      "modified_date": 1447262815,
+      "status": "public",
+      "replies": []
+    },
+    {
+      "commentid": 191306,
+      "locale": "en",
+      "context": "guide",
+      "contextid": 13470,
+      "parentid": null,
+      "author": {
+        "userid": 1414366,
+        "username": "Shmajay",
+        "unique_username": null,
+        "join_date": 1448490659,
+        "image": {
+          "id": 727733,
+          "guid": "yd2aGGvqy2UKnaqw",
+          "mini": "https://guide-images.cdn.ifixit.com/igi/yd2aGGvqy2UKnaqw.mini",
+          "thumbnail": "https://guide-images.cdn.ifixit.com/igi/yd2aGGvqy2UKnaqw.thumbnail",
+          "140x105": "https://guide-images.cdn.ifixit.com/igi/yd2aGGvqy2UKnaqw.140x105",
+          "200x150": "https://guide-images.cdn.ifixit.com/igi/yd2aGGvqy2UKnaqw.200x150",
+          "standard": "https://guide-images.cdn.ifixit.com/igi/yd2aGGvqy2UKnaqw.standard",
+          "440x330": "https://guide-images.cdn.ifixit.com/igi/yd2aGGvqy2UKnaqw.440x330",
+          "medium": "https://guide-images.cdn.ifixit.com/igi/yd2aGGvqy2UKnaqw.medium",
+          "large": "https://guide-images.cdn.ifixit.com/igi/yd2aGGvqy2UKnaqw.large",
+          "original": "https://guide-images.cdn.ifixit.com/igi/yd2aGGvqy2UKnaqw.full"
+        },
+        "reputation": 427,
+        "url": "https://www.ifixit.com/User/1414366/Shmajay",
+        "teams": []
+      },
+      "title": "Orange Teardown",
+      "text_raw": "Any word on them releasing a second version?",
+      "text_rendered": "<p>Any word on them releasing a second version?</p>",
+      "rating": 0,
+      "date": 1450234984,
+      "modified_date": 1450234984,
+      "status": "public",
+      "replies": []
+    },
+    {
+      "commentid": 505401,
+      "locale": "en",
+      "context": "guide",
+      "contextid": 13470,
+      "parentid": null,
+      "author": {
+        "userid": 2872819,
+        "username": "Киселёв Михаил",
+        "unique_username": null,
+        "join_date": 1545826906,
+        "image": {
+          "id": 1652180,
+          "guid": "lAOIiCDc4M2PEFpS",
+          "mini": "https://guide-images.cdn.ifixit.com/igi/lAOIiCDc4M2PEFpS.mini",
+          "thumbnail": "https://guide-images.cdn.ifixit.com/igi/lAOIiCDc4M2PEFpS.thumbnail",
+          "140x105": "https://guide-images.cdn.ifixit.com/igi/lAOIiCDc4M2PEFpS.140x105",
+          "200x150": "https://guide-images.cdn.ifixit.com/igi/lAOIiCDc4M2PEFpS.200x150",
+          "standard": "https://guide-images.cdn.ifixit.com/igi/lAOIiCDc4M2PEFpS.standard",
+          "440x330": "https://guide-images.cdn.ifixit.com/igi/lAOIiCDc4M2PEFpS.440x330",
+          "medium": "https://guide-images.cdn.ifixit.com/igi/lAOIiCDc4M2PEFpS.medium",
+          "original": "https://guide-images.cdn.ifixit.com/igi/lAOIiCDc4M2PEFpS.full"
+        },
+        "reputation": 1,
+        "url": "https://www.ifixit.com/User/2872819/%D0%9A%D0%B8%D1%81%D0%B5%D0%BB%D1%91%D0%B2+%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB",
+        "teams": []
+      },
+      "title": "Orange Teardown",
+      "text_raw": "It’s a good thing the device is not to be reassembled. Makes it easier to spot if a refurbished item is sold as a new one. The life time of the device certainly could be better, but it’s great that there’s a very easily available and virtually cost-free infrastructure to recycle the device’s components. Would be nice to see teardowns on some other unsual tech you stumble about!",
+      "text_rendered": "<p>It’s a good thing the device is not to be reassembled. Makes it easier to spot if a refurbished item is sold as a new one. The life time of the device certainly could be better, but it’s great that there’s a very easily available and virtually cost-free infrastructure to recycle the device’s components. Would be nice to see teardowns on some other unsual tech you stumble about!</p>",
+      "rating": 0,
+      "date": 1545826907,
+      "modified_date": 1545826907,
+      "status": "public",
+      "replies": []
+    }
+  ],
+  "category": "Orange",
+  "url": "https://www.ifixit.com/Teardown/Orange+Teardown/13470",
+  "patrol_threshold": 100000000,
+  "can_edit": true,
+  "favorited": false,
+  "author": {
+    "userid": 315778,
+    "username": "Jake Devincenzi",
+    "unique_username": null,
+    "join_date": 1303159675,
+    "image": {
+      "id": 277226,
+      "guid": "PUoLQGG6FLNy4X5Q",
+      "mini": "https://guide-images.cdn.ifixit.com/igi/PUoLQGG6FLNy4X5Q.mini",
+      "thumbnail": "https://guide-images.cdn.ifixit.com/igi/PUoLQGG6FLNy4X5Q.thumbnail",
+      "140x105": "https://guide-images.cdn.ifixit.com/igi/PUoLQGG6FLNy4X5Q.140x105",
+      "200x150": "https://guide-images.cdn.ifixit.com/igi/PUoLQGG6FLNy4X5Q.200x150",
+      "standard": "https://guide-images.cdn.ifixit.com/igi/PUoLQGG6FLNy4X5Q.standard",
+      "440x330": "https://guide-images.cdn.ifixit.com/igi/PUoLQGG6FLNy4X5Q.440x330",
+      "medium": "https://guide-images.cdn.ifixit.com/igi/PUoLQGG6FLNy4X5Q.medium",
+      "large": "https://guide-images.cdn.ifixit.com/igi/PUoLQGG6FLNy4X5Q.large",
+      "original": "https://guide-images.cdn.ifixit.com/igi/PUoLQGG6FLNy4X5Q.full"
+    },
+    "reputation": 115206,
+    "url": "https://www.ifixit.com/User/315778/Jake+Devincenzi",
+    "teams": []
+  },
+  "langid": "en",
+  "featured_documentid": null,
+  "intro_video_url": null,
+  "intro_video": null,
+  "completed": false
+}
