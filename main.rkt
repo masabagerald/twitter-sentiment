@@ -85,6 +85,22 @@
             #:x-label "Moods"
             #:title "Sentiment Analysis in Uganda Tweets"
             #:y-label "No of Tweets")))
+
+
+;;; Or, use the bing lexicon to determine the ratio of
+;;; positive-to-negative words 
+(define sentiment_polarity (list->sentiment words #:lexicon 'bing))
+(parameterize ([plot-height 400])
+  (plot (discrete-histogram
+	 (aggregate sum ($ sentiment 'sentiment) ($ sentiment 'freq))
+	 #:y-min 0
+	 #:y-max 8000
+	 #:invert? #t
+	 #:color "MediumOrchid"
+	 #:line-color "MediumOrchid")
+         #:title "Sentiment Polarity in Uganda Tweets"
+	#:x-label "Frequency"
+	#:y-label "Sentiment Polarity"))
             
 
 
